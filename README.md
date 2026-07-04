@@ -7,7 +7,7 @@ This repository contains an Interactive IT Risk Assessment Report designed to si
 ![Dashboard Preview](Dashboard_Preview.png)
 
 ## 🎯 Key Business & Audit Problems Solved
-* Data Cleansing & Extraction: Processed a raw system dump of 1,000 messy corporate IT logs—handling missing data inputs, uniform time parsing, and trailing string anomalies using advanced Excel data cleansing workflows.
+* **Data Cleansing & Extraction:** Processed a raw system dump of 1,000 messy corporate IT logs—handling missing data inputs, uniform time parsing, and trailing string anomalies using advanced Excel data cleansing workflows.
 * Control & Vulnerability Assessment: Evaluated the frequency and systemic locations of key security incidents (e.g., Stale User Accounts, Unauthorized Access Attempts, and Backup Failures).
 * SLA Compliance Tracking: Programmed conditional logical audits to track resolution response metrics against a strict 24-hour corporate Service Level Agreement (SLA) window.
 * Risk Prioritization Matrix: Mapped overall threat exposure levels utilizing a standardized risk severity matrix (Critical, High, Medium, Low).
