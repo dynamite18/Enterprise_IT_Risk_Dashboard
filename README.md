@@ -4,6 +4,7 @@
 This repository contains an Interactive IT Risk Assessment Report designed to simulate how an IT Risk Advisory team processes raw corporate infrastructure data dumps to identify security control failures and present insights to executive leadership (CIO/CISO).
 
 ## 🖥️ Dashboard Preview
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## 🎯 Key Business & Audit Problems Solved
 * Data Cleansing & Extraction: Processed a raw system dump of 1,000 messy corporate IT logs—handling missing data inputs, uniform time parsing, and trailing string anomalies using advanced Excel data cleansing workflows.
