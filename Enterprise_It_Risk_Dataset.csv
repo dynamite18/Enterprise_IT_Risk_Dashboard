@@ -1,0 +1,1001 @@
+Incident_ID,Incident_Type,System_Impacted,Department,Location,Priority,Reported_Timestamp,Resolved_Timestamp,Resolution_Time_Hours,Status
+INC-2025-0001,Unauthorized Access Attempt,SAP ERP,Marketing,Cloud Instance,High,06-05-2025 07:08,07-05-2025 10:14,27.1,Closed
+INC-2025-0002,Unpatched Server,SAP ERP,Finance,Data Center A,High,16-09-2025 19:01,18-09-2025 01:13,30.21,Closed
+INC-2025-0003,Backup Failure,Workday HRMS,Engineering,Head Office,Low,23-03-2025 22:27,24-03-2025 02:30,4.06,Closed
+INC-2025-0004,Backup Failure,Salesforce CRM,Finance,Cloud Instance,High,06-11-2025 08:51,06-11-2025 23:36,14.76,Closed
+INC-2025-0005,Stale User Account Active,Workday HRMS,Engineering,Data Center B,Medium,05-07-2025 18:12,05-07-2025 19:19,1.13,Closed
+INC-2025-0006,Unauthorized Access Attempt,Workday HRMS,HR,Remote Branch,Critical,23-05-2025 14:40,23-05-2025 18:55,4.26,Resolved
+INC-2025-0007,Unauthorized Access Attempt,Internal Database,Marketing,Data Center B,Critical,22-11-2025 05:34,22-11-2025 09:50,4.28,Closed
+INC-2025-0008,Stale User Account Active,Active Directory,Sales,Cloud Instance,Medium,29-01-2025 07:52,29-01-2025 16:58,9.1,Closed
+INC-2025-0009,Unpatched Server,Salesforce CRM,Marketing,Remote Branch,Medium,22-07-2025 20:29,23-07-2025 00:05,3.61,Closed
+INC-2025-0010,Data Leakage Alert,Office 365,Operations,Cloud Instance,High,23-04-2025 04:32,24-04-2025 14:21,33.83,Closed
+INC-2025-0011,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Head Office,High,17-07-2025 12:38,,,Open
+INC-2025-0012,Stale User Account Active,Internal Database,Finance,Head Office,High,16-12-2025 17:48,17-12-2025 18:22,24.58,Closed
+INC-2025-0013,Failed Patch Deployment,Internal Database,Marketing,Data Center B,Low,02-04-2025 16:58,03-04-2025 16:31,23.56,Closed
+INC-2025-0014,Unpatched Server,Workday HRMS,Engineering,Data Center B,Low,29-09-2025 00:38,29-09-2025 01:08,0.5,Closed
+INC-2025-0015,Unauthorized Access Attempt,Active Directory,Engineering,Data Center A,Medium,18-10-2025 02:05,19-10-2025 18:42,40.63,Closed
+INC-2025-0016,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Data Center A,Medium,16-05-2025 16:55,20-05-2025 00:56,80.02,Closed
+INC-2025-0017,Data Leakage Alert,Salesforce CRM,Marketing,Cloud Instance,Critical,13-08-2025 16:28,13-08-2025 22:34,6.11,Closed
+INC-2025-0018,Unauthorized Access Attempt,SAP ERP,HR,Head Office,High,28-04-2025 02:57,28-04-2025 12:34,9.63,Closed
+INC-2025-0019,Stale User Account Active,Active Directory,Sales,Data Center B,High,23-10-2025 15:15,25-10-2025 06:47,39.54,Resolved
+INC-2025-0020,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Head Office,Critical,11-12-2025 20:41,12-12-2025 09:02,12.36,Closed
+INC-2025-0021,Data Leakage Alert,Office 365,HR,Data Center A,Critical,05-08-2025 05:17,07-08-2025 07:05,49.81,Closed
+INC-2025-0022,Stale User Account Active,SAP ERP,Finance,Data Center B,High,08-01-2025 02:59,08-01-2025 09:27,6.47,Resolved
+INC-2025-0023,Data Leakage Alert,Active Directory,Finance,Head Office,High,19-07-2025 08:59,19-07-2025 23:33,14.57,Resolved
+INC-2025-0024,Stale User Account Active,Internal Database,Sales,Remote Branch,Medium,21-03-2025 06:18,21-03-2025 07:45,1.45,Closed
+INC-2025-0025,Data Leakage Alert,Office 365,Finance,Data Center B,Critical,29-09-2025 05:03,,,Open
+INC-2025-0026,Unpatched Server,Workday HRMS,Marketing,Remote Branch,High,03-03-2025 18:15,03-03-2025 19:13,0.97,Closed
+INC-2025-0027,Unpatched Server,Salesforce CRM,Engineering,Cloud Instance,Medium,03-05-2025 08:25,04-05-2025 09:18,24.89,Closed
+INC-2025-0028,Weak Password Policy Violation,AWS Cloud Infrastructure,Finance,Data Center B,Medium,21-02-2025 02:34,21-02-2025 09:58,7.4,Closed
+INC-2025-0029,Unpatched Server,Salesforce CRM,,Remote Branch,Medium,06-10-2025 22:19,11-10-2025 06:58,104.66,Closed
+INC-2025-0030,Unauthorized Access Attempt,Internal Database,Engineering,Data Center A,Critical,16-05-2025 03:56,16-05-2025 23:16,19.34,Closed
+INC-2025-0031,Stale User Account Active,Internal Database,HR,Cloud Instance,High,16-09-2025 15:16,18-09-2025 12:11,44.92,Resolved
+INC-2025-0032,Backup Failure,Salesforce CRM,,Data Center A,Medium,23-11-2025 08:10,24-11-2025 03:25,19.25,Closed
+INC-2025-0033,Weak Password Policy Violation,Active Directory,Marketing,Head Office,Medium,09-07-2025 18:35,09-07-2025 21:51,3.27,Closed
+INC-2025-0034,Failed Patch Deployment,SAP ERP,Legal,Data Center A,High,16-12-2025 07:42,17-12-2025 20:03,36.35,Closed
+INC-2025-0035,Backup Failure,Active Directory,HR,Data Center A,Medium,01-04-2025 13:01,04-04-2025 03:01,62,Closed
+INC-2025-0036,Unpatched Server,Workday HRMS,Marketing,Cloud Instance,Medium,23-03-2025 22:06,23-03-2025 23:03,0.95,Closed
+INC-2025-0037,Backup Failure,Salesforce CRM,Engineering,Data Center A,Low,25-04-2025 00:42,25-04-2025 10:15,9.55,Closed
+INC-2025-0038,Data Leakage Alert,Office 365,Marketing,Data Center B,High,19-06-2025 00:07,19-06-2025 07:23,7.27,Resolved
+INC-2025-0039,Failed Patch Deployment,AWS Cloud Infrastructure,Sales,Cloud Instance,Critical,12-08-2025 19:32,15-08-2025 02:40,55.14,Closed
+INC-2025-0040,Weak Password Policy Violation,Workday HRMS,Sales,Data Center A,Medium,06-07-2025 13:04,09-07-2025 01:55,60.85,Resolved
+INC-2025-0041,Failed Patch Deployment,Office 365,Engineering,Remote Branch,Medium,17-06-2025 12:44,17-06-2025 16:00,3.27,Closed
+INC-2025-0042,Weak Password Policy Violation,Office 365,HR,Cloud Instance,Medium,27-07-2025 17:53,28-07-2025 02:00,8.12,Closed
+INC-2025-0043,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Data Center A,Critical,19-09-2025 15:50,21-09-2025 05:59,38.15,Resolved
+INC-2025-0044,Failed Patch Deployment,Office 365,Marketing,Head Office,High,01-05-2025 21:19,02-05-2025 02:38,5.33,Closed
+INC-2025-0045,Unauthorized Access Attempt,Workday HRMS,Legal,Remote Branch,High,01-08-2025 20:36,03-08-2025 01:12,28.61,Closed
+INC-2025-0046,Backup Failure,Workday HRMS,Finance,Head Office,Medium,06-08-2025 07:11,07-08-2025 11:45,28.57,Resolved
+INC-2025-0047,Unpatched Server,AWS Cloud Infrastructure,Finance,Remote Branch,High,08-12-2025 16:35,11-12-2025 16:30,71.92,Closed
+INC-2025-0048,Backup Failure,AWS Cloud Infrastructure,Sales,Data Center B,High,17-08-2025 05:47,17-08-2025 20:08,14.35,Resolved
+INC-2025-0049,Data Leakage Alert,Office 365,Legal,Data Center A,Critical,21-05-2025 14:04,21-05-2025 20:28,6.41,Closed
+INC-2025-0050,Data Leakage Alert,Active Directory,HR,Data Center A,High,20-04-2025 02:26,20-04-2025 21:12,18.77,Closed
+INC-2025-0051,Stale User Account Active,Office 365,Legal,Head Office,Medium,22-10-2025 12:30,22-10-2025 22:54,10.4,Closed
+INC-2025-0052,Stale User Account Active,Office 365,Operations,Data Center B,High,05-11-2025 07:31,05-11-2025 21:15,13.74,Closed
+INC-2025-0053,Unpatched Server,Internal Database,,Remote Branch,Medium,07-03-2025 19:34,08-03-2025 07:35,12.02,Closed
+INC-2025-0054,Data Leakage Alert,Workday HRMS,HR,Data Center A,Critical,26-01-2025 08:24,26-01-2025 22:57,14.55,Closed
+INC-2025-0055,Failed Patch Deployment,AWS Cloud Infrastructure,Legal,Head Office,Critical,29-08-2025 00:47,07-09-2025 07:47,223,Closed
+INC-2025-0056,Backup Failure,SAP ERP,Marketing,Head Office,Critical,07-05-2025 06:53,07-05-2025 10:51,3.97,Closed
+INC-2025-0057,Stale User Account Active,AWS Cloud Infrastructure,HR,Cloud Instance,Critical,08-07-2025 05:38,09-07-2025 14:42,33.07,Closed
+INC-2025-0058,Unauthorized Access Attempt,Office 365,Finance,Cloud Instance,Critical,22-10-2025 21:58,,,Open
+INC-2025-0059,Stale User Account Active,Workday HRMS,Marketing,Data Center A,Low,22-02-2025 22:49,24-02-2025 02:29,27.67,Closed
+INC-2025-0060,Weak Password Policy Violation,Salesforce CRM,Finance,Remote Branch,Low,05-12-2025 11:04,05-12-2025 21:05,10.02,Closed
+INC-2025-0061,Backup Failure,Internal Database,Engineering,Remote Branch,Medium,20-03-2025 13:11,23-03-2025 21:57,80.78,Closed
+INC-2025-0062,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Data Center B,Critical,18-05-2025 10:54,21-05-2025 04:21,65.46,Closed
+INC-2025-0063,Stale User Account Active,Office 365,Sales,Remote Branch,Medium,22-06-2025 00:31,22-06-2025 05:20,4.82,Resolved
+INC-2025-0064,Failed Patch Deployment,Internal Database,Sales,Data Center B,Medium,06-01-2025 16:12,07-01-2025 22:45,30.56,Closed
+INC-2025-0065,Data Leakage Alert,Internal Database,Marketing,Remote Branch,Critical,09-01-2025 02:18,10-01-2025 06:33,28.25,Closed
+INC-2025-0066,Data Leakage Alert,Salesforce CRM,Sales,Data Center B,Critical,19-06-2025 11:44,19-06-2025 20:31,8.79,Closed
+INC-2025-0067,Backup Failure,Office 365,Marketing,Data Center A,Low,09-04-2025 06:47,10-04-2025 13:44,30.95,Closed
+INC-2025-0068,Unpatched Server,Workday HRMS,Finance,Cloud Instance,High,27-04-2025 11:11,28-04-2025 16:44,29.55,Closed
+INC-2025-0069,Unpatched Server,Internal Database,Engineering,Remote Branch,Medium,22-02-2025 00:36,22-02-2025 16:13,15.63,Closed
+INC-2025-0070,Unauthorized Access Attempt,AWS Cloud Infrastructure,Legal,Head Office,Critical,25-07-2025 15:04,26-07-2025 18:54,27.84,Closed
+INC-2025-0071,Unauthorized Access Attempt,Active Directory,Finance,Data Center B,High,02-08-2025 19:38,03-08-2025 01:46,6.14,Resolved
+INC-2025-0072,Data Leakage Alert,Office 365,Legal,Cloud Instance,Medium,19-10-2025 19:03,21-10-2025 03:23,32.34,Closed
+INC-2025-0073,Unpatched Server,SAP ERP,Marketing,Data Center A,High,30-03-2025 17:04,31-03-2025 05:40,12.6,Closed
+INC-2025-0074,Failed Patch Deployment,Internal Database,Engineering,Remote Branch,Medium,06-02-2025 21:14,08-02-2025 10:26,37.21,Resolved
+INC-2025-0075,Weak Password Policy Violation,SAP ERP,Operations,Data Center A,Critical,28-11-2025 04:58,28-11-2025 08:38,3.68,Closed
+INC-2025-0076,Failed Patch Deployment,Office 365,Legal,Remote Branch,Medium,05-03-2025 14:44,06-03-2025 03:05,12.36,Closed
+INC-2025-0077,Data Leakage Alert,SAP ERP,Sales,Cloud Instance,High,06-11-2025 08:01,09-11-2025 14:26,78.43,Closed
+INC-2025-0078,Backup Failure,Internal Database,Legal,Cloud Instance,Medium,23-10-2025 01:48,23-10-2025 17:03,15.26,Resolved
+INC-2025-0079,Stale User Account Active,AWS Cloud Infrastructure,Sales,Remote Branch,Critical,16-02-2025 15:22,17-02-2025 00:39,9.29,Closed
+INC-2025-0080,Stale User Account Active,Salesforce CRM,Operations,Remote Branch,High,09-10-2025 01:29,09-10-2025 08:27,6.98,Closed
+INC-2025-0081,Stale User Account Active,SAP ERP,Legal,Data Center B,High,25-08-2025 13:03,25-08-2025 23:49,10.78,Closed
+INC-2025-0082,Weak Password Policy Violation,Salesforce CRM,HR,Data Center A,Low,28-05-2025 14:56,28-05-2025 18:02,3.11,Closed
+INC-2025-0083,Weak Password Policy Violation,Salesforce CRM,HR,Head Office,High,10-10-2025 13:05,12-10-2025 09:16,44.19,Closed
+INC-2025-0084,Stale User Account Active,AWS Cloud Infrastructure,HR,Cloud Instance,High,18-09-2025 22:17,19-09-2025 14:05,15.81,Closed
+INC-2025-0085,Weak Password Policy Violation,Office 365,HR,Data Center A,Low,05-02-2025 08:49,05-02-2025 21:41,12.87,Resolved
+INC-2025-0086,Failed Patch Deployment,Internal Database,Engineering,Data Center B,Medium,24-10-2025 21:31,25-10-2025 11:43,14.2,Resolved
+INC-2025-0087,Failed Patch Deployment,AWS Cloud Infrastructure,Operations,Data Center A,High,24-12-2025 07:36,26-12-2025 06:06,46.51,Closed
+INC-2025-0088,Data Leakage Alert,AWS Cloud Infrastructure,Legal,Data Center A,High,11-09-2025 01:08,11-09-2025 22:32,21.41,Closed
+INC-2025-0089,Unauthorized Access Attempt,AWS Cloud Infrastructure,Sales,Data Center A,Critical,29-07-2025 20:09,31-07-2025 08:39,36.51,Closed
+INC-2025-0090,Failed Patch Deployment,Workday HRMS,Finance,Data Center B,Low,14-07-2025 10:40,15-07-2025 20:51,34.19,Closed
+INC-2025-0091,Failed Patch Deployment,Internal Database,Marketing,Data Center A,High,16-02-2025 13:06,17-02-2025 18:18,29.21,Resolved
+INC-2025-0092,Failed Patch Deployment,SAP ERP,Finance,Head Office,High,31-05-2025 11:23,31-05-2025 18:06,6.72,Closed
+INC-2025-0093,Weak Password Policy Violation,SAP ERP,HR,Remote Branch,Critical,14-11-2025 21:15,15-11-2025 18:15,21,Closed
+INC-2025-0094,Backup Failure,SAP ERP,Marketing,Remote Branch,Critical,28-05-2025 21:34,29-05-2025 11:33,13.99,Closed
+INC-2025-0095,Failed Patch Deployment,Internal Database,Operations,Remote Branch,Medium,04-06-2025 06:24,04-06-2025 09:06,2.71,Resolved
+INC-2025-0096,Unauthorized Access Attempt,Salesforce CRM,Marketing,Remote Branch,Medium,21-05-2025 00:36,22-05-2025 12:45,36.16,Resolved
+INC-2025-0097,Backup Failure,Salesforce CRM,Legal,Data Center A,Medium,07-11-2025 11:14,08-11-2025 10:30,23.28,Closed
+INC-2025-0098,Stale User Account Active,Active Directory,Legal,Head Office,Medium,18-11-2025 20:02,19-11-2025 09:59,13.95,Closed
+INC-2025-0099,Stale User Account Active,Salesforce CRM,Engineering,Remote Branch,Medium,31-03-2025 06:08,02-04-2025 08:19,50.19,Resolved
+INC-2025-0100,Backup Failure,Salesforce CRM,HR,Remote Branch,Low,01-06-2025 23:55,02-06-2025 02:51,2.94,Closed
+INC-2025-0101,Stale User Account Active,Internal Database,Legal,Remote Branch,Medium,13-10-2025 11:05,13-10-2025 11:35,0.5,Resolved
+INC-2025-0102,Weak Password Policy Violation,Salesforce CRM,Marketing,Remote Branch,Medium,23-11-2025 11:06,24-11-2025 02:24,15.3,Closed
+INC-2025-0103,Stale User Account Active,Active Directory,Sales,Head Office,High,22-11-2025 14:58,23-11-2025 16:06,25.14,Closed
+INC-2025-0104,Unauthorized Access Attempt,SAP ERP,Operations,Data Center A,High,03-10-2025 04:24,04-10-2025 07:02,26.64,Closed
+INC-2025-0105,Unpatched Server,Internal Database,Marketing,Remote Branch,Low,02-12-2025 03:53,02-12-2025 16:28,12.59,Closed
+INC-2025-0106,Unpatched Server,AWS Cloud Infrastructure,Operations,Cloud Instance,Critical,20-02-2025 21:23,24-02-2025 16:48,91.43,Closed
+INC-2025-0107,Backup Failure,Workday HRMS,Finance,Remote Branch,High,16-02-2025 21:13,17-02-2025 19:02,21.82,Closed
+INC-2025-0108,Weak Password Policy Violation,Workday HRMS,HR,Data Center A,Medium,05-02-2025 17:13,07-02-2025 09:28,40.25,Closed
+INC-2025-0109,Failed Patch Deployment,SAP ERP,Sales,Data Center A,High,08-03-2025 17:16,08-03-2025 20:03,2.79,Resolved
+INC-2025-0110,Weak Password Policy Violation,Active Directory,Legal,Cloud Instance,Medium,09-01-2025 05:16,10-01-2025 13:45,32.49,Closed
+INC-2025-0111,Weak Password Policy Violation,Salesforce CRM,Legal,Data Center B,Medium,25-02-2025 14:32,26-02-2025 13:26,22.91,Closed
+INC-2025-0112,Stale User Account Active,AWS Cloud Infrastructure,Engineering,Head Office,High,01-02-2025 15:54,02-02-2025 19:42,27.81,Closed
+INC-2025-0113,Weak Password Policy Violation,Salesforce CRM,Finance,Data Center A,Medium,03-02-2025 04:17,04-02-2025 01:24,21.13,Closed
+INC-2025-0114,Weak Password Policy Violation,AWS Cloud Infrastructure,Engineering,Data Center B,High,09-08-2025 03:50,11-08-2025 01:48,45.98,Closed
+INC-2025-0115,Data Leakage Alert,AWS Cloud Infrastructure,HR,Data Center A,Critical,31-07-2025 10:52,31-07-2025 23:46,12.91,Closed
+INC-2025-0116,Stale User Account Active,Active Directory,Engineering,Remote Branch,Medium,04-02-2025 02:53,04-02-2025 16:27,13.57,Closed
+INC-2025-0117,Weak Password Policy Violation,Office 365,Finance,Data Center B,Low,18-06-2025 21:07,20-06-2025 22:45,49.64,Closed
+INC-2025-0118,Weak Password Policy Violation,Salesforce CRM,Finance,Cloud Instance,Medium,30-06-2025 03:36,30-06-2025 07:37,4.03,Closed
+INC-2025-0119,Unauthorized Access Attempt,Salesforce CRM,Sales,Cloud Instance,High,21-10-2025 07:51,22-10-2025 03:36,19.76,Closed
+INC-2025-0120,Weak Password Policy Violation,SAP ERP,,Cloud Instance,Critical,15-01-2025 05:17,15-01-2025 14:09,8.87,Closed
+INC-2025-0121,Data Leakage Alert,Internal Database,Sales,Head Office,Critical,14-03-2025 23:40,,,Open
+INC-2025-0122,Unpatched Server,Salesforce CRM,Operations,Cloud Instance,High,09-06-2025 23:20,10-06-2025 19:27,20.12,Resolved
+INC-2025-0123,Stale User Account Active,SAP ERP,Sales,Head Office,High,20-05-2025 14:42,21-05-2025 13:07,22.42,Closed
+INC-2025-0124,Unauthorized Access Attempt,AWS Cloud Infrastructure,Engineering,Cloud Instance,Critical,14-12-2025 21:37,16-12-2025 00:01,26.4,Closed
+INC-2025-0125,Failed Patch Deployment,Active Directory,Finance,Data Center A,Medium,12-03-2025 08:18,12-03-2025 08:48,0.5,Closed
+INC-2025-0126,Weak Password Policy Violation,Active Directory,Marketing,Data Center B,Medium,09-12-2025 11:04,10-12-2025 19:35,32.52,Closed
+INC-2025-0127,Data Leakage Alert,Office 365,Engineering,Data Center B,Critical,27-07-2025 22:40,28-07-2025 01:36,2.94,Closed
+INC-2025-0128,Backup Failure,AWS Cloud Infrastructure,Sales,Cloud Instance,High,15-02-2025 13:54,16-02-2025 03:37,13.73,Closed
+INC-2025-0129,Unpatched Server,Salesforce CRM,Marketing,Cloud Instance,High,28-03-2025 02:32,28-03-2025 20:41,18.15,Closed
+INC-2025-0130,Backup Failure,Internal Database,Legal,Data Center A,High,01-05-2025 03:09,01-05-2025 07:43,4.57,Closed
+INC-2025-0131,Data Leakage Alert,Internal Database,Legal,Remote Branch,High,16-10-2025 18:28,18-10-2025 21:46,51.3,Closed
+INC-2025-0132,Unpatched Server,Salesforce CRM,Marketing,Remote Branch,Medium,04-02-2025 15:28,06-02-2025 05:39,38.19,Closed
+INC-2025-0133,Unauthorized Access Attempt,AWS Cloud Infrastructure,Operations,Head Office,Critical,08-07-2025 09:04,12-07-2025 03:59,90.92,Closed
+INC-2025-0134,Backup Failure,Office 365,Sales,Head Office,Medium,19-08-2025 18:41,20-08-2025 16:58,22.29,Closed
+INC-2025-0135,Failed Patch Deployment,Workday HRMS,Legal,Head Office,Low,16-09-2025 20:11,18-09-2025 01:41,29.51,Closed
+INC-2025-0136,Failed Patch Deployment,Salesforce CRM,Engineering,Remote Branch,Medium,29-07-2025 10:43,31-07-2025 00:05,37.37,Closed
+INC-2025-0137,Failed Patch Deployment,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,03-12-2025 19:55,03-12-2025 21:57,2.04,Closed
+INC-2025-0138,Stale User Account Active,Internal Database,Marketing,Remote Branch,Medium,08-03-2025 19:45,09-03-2025 04:38,8.89,Resolved
+INC-2025-0139,Backup Failure,Internal Database,Marketing,Data Center B,Medium,17-02-2025 20:42,18-02-2025 07:28,10.78,Closed
+INC-2025-0140,Unpatched Server,AWS Cloud Infrastructure,Legal,Data Center A,High,12-03-2025 04:04,13-03-2025 17:18,37.24,Closed
+INC-2025-0141,Stale User Account Active,SAP ERP,Sales,Cloud Instance,High,13-11-2025 04:38,13-11-2025 08:53,4.25,Closed
+INC-2025-0142,Data Leakage Alert,Internal Database,HR,Head Office,High,30-07-2025 11:43,02-08-2025 23:32,83.83,Closed
+INC-2025-0143,Unpatched Server,Office 365,HR,Cloud Instance,Medium,29-08-2025 06:23,30-08-2025 02:39,20.28,Closed
+INC-2025-0144,Data Leakage Alert,Office 365,Sales,Data Center A,High,13-04-2025 19:08,13-04-2025 20:25,1.29,Resolved
+INC-2025-0145,Weak Password Policy Violation,Workday HRMS,Marketing,Head Office,Medium,26-05-2025 02:48,26-05-2025 17:07,14.32,Closed
+INC-2025-0146,Data Leakage Alert,Workday HRMS,HR,Cloud Instance,Critical,14-01-2025 13:03,15-01-2025 00:17,11.24,Closed
+INC-2025-0147,Backup Failure,SAP ERP,Engineering,Cloud Instance,High,16-03-2025 04:02,17-03-2025 22:31,42.49,Closed
+INC-2025-0148,Unauthorized Access Attempt,Office 365,Operations,Head Office,High,10-01-2025 08:13,11-01-2025 03:19,19.1,Resolved
+INC-2025-0149,Failed Patch Deployment,Active Directory,Engineering,Head Office,High,25-01-2025 07:26,26-01-2025 06:50,23.4,Closed
+INC-2025-0150,Stale User Account Active,SAP ERP,Sales,Data Center B,High,22-10-2025 07:45,22-10-2025 21:12,13.46,Closed
+INC-2025-0151,Unauthorized Access Attempt,Internal Database,,Data Center B,High,04-07-2025 02:33,05-07-2025 15:36,37.05,Closed
+INC-2025-0152,Data Leakage Alert,Internal Database,Finance,Cloud Instance,Critical,10-05-2025 23:01,11-05-2025 00:41,1.68,Closed
+INC-2025-0153,Backup Failure,Internal Database,Sales,Cloud Instance,High,10-03-2025 01:22,11-03-2025 17:40,40.3,Closed
+INC-2025-0154,Stale User Account Active,AWS Cloud Infrastructure,Marketing,Data Center A,Critical,11-03-2025 02:45,11-03-2025 17:26,14.69,Resolved
+INC-2025-0155,Failed Patch Deployment,Salesforce CRM,Finance,Data Center B,High,23-07-2025 17:30,25-07-2025 03:05,33.59,Closed
+INC-2025-0156,Failed Patch Deployment,Internal Database,Legal,Cloud Instance,Low,05-03-2025 11:27,06-03-2025 20:05,32.64,Resolved
+INC-2025-0157,Data Leakage Alert,Internal Database,Operations,Cloud Instance,High,23-09-2025 08:51,23-09-2025 22:06,13.26,Closed
+INC-2025-0158,Unauthorized Access Attempt,Salesforce CRM,Engineering,Head Office,High,17-06-2025 21:18,18-06-2025 19:27,22.15,Closed
+INC-2025-0159,Backup Failure,Internal Database,Finance,Cloud Instance,High,11-11-2025 13:17,13-11-2025 02:54,37.63,Closed
+INC-2025-0160,Stale User Account Active,Workday HRMS,Sales,Data Center A,High,16-01-2025 04:54,17-01-2025 17:22,36.48,Closed
+INC-2025-0161,Data Leakage Alert,Salesforce CRM,Engineering,Data Center B,Critical,17-01-2025 19:09,20-01-2025 18:29,71.34,Closed
+INC-2025-0162,Data Leakage Alert,Salesforce CRM,Sales,Cloud Instance,Critical,29-11-2025 08:15,,,Open
+INC-2025-0163,Failed Patch Deployment,SAP ERP,Sales,Cloud Instance,Critical,27-12-2025 14:13,,,Open
+INC-2025-0164,Backup Failure,Active Directory,Finance,Head Office,Low,20-08-2025 05:57,26-08-2025 03:34,141.62,Closed
+INC-2025-0165,Stale User Account Active,Salesforce CRM,Marketing,Head Office,Medium,09-10-2025 17:18,11-10-2025 15:03,45.75,Resolved
+INC-2025-0166,Weak Password Policy Violation,Salesforce CRM,Legal,Data Center A,High,04-03-2025 06:50,05-03-2025 20:20,37.5,Closed
+INC-2025-0167,Unpatched Server,Office 365,Legal,Data Center B,Medium,14-02-2025 02:19,15-02-2025 08:36,30.29,Closed
+INC-2025-0168,Unpatched Server,SAP ERP,Sales,Cloud Instance,Critical,25-11-2025 02:28,25-11-2025 19:56,17.48,Closed
+INC-2025-0169,Backup Failure,Active Directory,Sales,Data Center A,Medium,10-08-2025 16:58,12-08-2025 11:41,42.72,Resolved
+INC-2025-0170,Failed Patch Deployment,Active Directory,Marketing,Data Center B,Medium,26-05-2025 02:16,29-05-2025 05:25,75.16,Closed
+INC-2025-0171,Stale User Account Active,Office 365,Finance,Data Center A,Low,31-10-2025 18:09,01-11-2025 17:39,23.51,Closed
+INC-2025-0172,Backup Failure,Workday HRMS,Finance,Head Office,Medium,11-02-2025 01:41,11-02-2025 09:03,7.38,Resolved
+INC-2025-0173,Stale User Account Active,AWS Cloud Infrastructure,Finance,Data Center B,High,29-05-2025 20:19,31-05-2025 11:31,39.2,Closed
+INC-2025-0174,Data Leakage Alert,Active Directory,Finance,Remote Branch,High,05-09-2025 14:13,05-09-2025 17:56,3.72,Closed
+INC-2025-0175,Unpatched Server,AWS Cloud Infrastructure,Engineering,Cloud Instance,Critical,21-09-2025 17:06,22-09-2025 08:10,15.08,Closed
+INC-2025-0176,Backup Failure,AWS Cloud Infrastructure,Engineering,Data Center B,Medium,03-08-2025 07:55,05-08-2025 00:13,40.3,Resolved
+INC-2025-0177,Weak Password Policy Violation,AWS Cloud Infrastructure,HR,Remote Branch,High,13-09-2025 09:31,16-09-2025 07:13,69.71,Closed
+INC-2025-0178,Unauthorized Access Attempt,SAP ERP,,Cloud Instance,Critical,11-09-2025 19:56,12-09-2025 22:43,26.79,Resolved
+INC-2025-0179,Stale User Account Active,Salesforce CRM,HR,Cloud Instance,High,26-07-2025 11:02,27-07-2025 07:18,20.27,Closed
+INC-2025-0180,Backup Failure,AWS Cloud Infrastructure,Sales,Data Center B,Critical,24-05-2025 19:43,24-05-2025 23:01,3.31,Closed
+INC-2025-0181,Backup Failure,Salesforce CRM,Sales,Data Center A,High,12-04-2025 19:32,12-04-2025 20:31,0.99,Closed
+INC-2025-0182,Unpatched Server,AWS Cloud Infrastructure,Sales,Data Center B,Critical,21-09-2025 04:20,21-09-2025 13:32,9.2,Resolved
+INC-2025-0183,Weak Password Policy Violation,Salesforce CRM,Sales,Data Center B,High,30-09-2025 15:45,01-10-2025 07:12,15.46,Closed
+INC-2025-0184,Failed Patch Deployment,Office 365,Operations,Head Office,Medium,02-11-2025 15:16,,,Open
+INC-2025-0185,Weak Password Policy Violation,SAP ERP,Marketing,Remote Branch,Critical,29-03-2025 16:40,31-03-2025 04:25,35.76,Closed
+INC-2025-0186,Unauthorized Access Attempt,Internal Database,Sales,Data Center A,Critical,10-01-2025 14:20,11-01-2025 03:06,12.78,Closed
+INC-2025-0187,Backup Failure,Workday HRMS,Operations,Head Office,Medium,12-03-2025 16:13,18-03-2025 22:53,150.67,Closed
+INC-2025-0188,Failed Patch Deployment,Office 365,Operations,Data Center B,Low,01-07-2025 21:49,03-07-2025 01:13,27.4,Resolved
+INC-2025-0189,Weak Password Policy Violation,Salesforce CRM,HR,Cloud Instance,Medium,26-04-2025 09:49,26-04-2025 15:23,5.57,Closed
+INC-2025-0190,Failed Patch Deployment,Internal Database,Legal,Cloud Instance,Medium,04-03-2025 18:43,07-03-2025 00:59,54.27,Closed
+INC-2025-0191,Unauthorized Access Attempt,Salesforce CRM,HR,Cloud Instance,High,10-02-2025 11:59,10-02-2025 19:05,7.11,Closed
+INC-2025-0192,Failed Patch Deployment,Internal Database,Sales,Data Center A,Medium,25-02-2025 19:47,26-02-2025 02:26,6.66,Closed
+INC-2025-0193,Data Leakage Alert,SAP ERP,Finance,Cloud Instance,High,30-08-2025 03:43,30-08-2025 04:13,0.5,Resolved
+INC-2025-0194,Stale User Account Active,AWS Cloud Infrastructure,Operations,Data Center A,Critical,28-05-2025 10:18,30-05-2025 19:33,57.25,Closed
+INC-2025-0195,Unauthorized Access Attempt,Workday HRMS,Marketing,Data Center A,Critical,02-08-2025 05:59,08-08-2025 02:48,140.83,Resolved
+INC-2025-0196,Unauthorized Access Attempt,Salesforce CRM,Legal,Head Office,Critical,02-06-2025 18:38,06-06-2025 20:24,97.78,Closed
+INC-2025-0197,Backup Failure,Active Directory,Operations,Data Center B,Medium,28-08-2025 08:12,28-08-2025 17:50,9.64,Resolved
+INC-2025-0198,Failed Patch Deployment,Internal Database,Finance,Cloud Instance,Medium,18-10-2025 21:48,19-10-2025 20:27,22.66,Closed
+INC-2025-0199,Data Leakage Alert,SAP ERP,Engineering,Head Office,Critical,05-04-2025 04:30,05-04-2025 11:20,6.84,Closed
+INC-2025-0200,Weak Password Policy Violation,Salesforce CRM,Engineering,Data Center B,Medium,06-01-2025 08:41,06-01-2025 15:09,6.47,Closed
+INC-2025-0201,Stale User Account Active,Office 365,Marketing,Cloud Instance,Medium,20-12-2025 03:40,20-12-2025 12:03,8.39,Resolved
+INC-2025-0202,Stale User Account Active,AWS Cloud Infrastructure,HR,Data Center B,High,11-07-2025 13:44,12-07-2025 05:00,15.27,Closed
+INC-2025-0203,Backup Failure,Internal Database,HR,Data Center B,Low,11-02-2025 16:28,12-02-2025 03:14,10.78,Closed
+INC-2025-0204,Weak Password Policy Violation,Active Directory,Sales,Data Center B,Medium,18-03-2025 05:20,18-03-2025 19:19,13.99,Resolved
+INC-2025-0205,Backup Failure,AWS Cloud Infrastructure,Sales,Head Office,High,21-08-2025 04:32,22-08-2025 00:27,19.92,Closed
+INC-2025-0206,Failed Patch Deployment,AWS Cloud Infrastructure,Finance,Head Office,Critical,22-04-2025 18:04,23-04-2025 04:12,10.14,Closed
+INC-2025-0207,Unauthorized Access Attempt,AWS Cloud Infrastructure,Finance,Cloud Instance,High,29-07-2025 05:49,30-07-2025 06:26,24.62,Closed
+INC-2025-0208,Backup Failure,AWS Cloud Infrastructure,Operations,Remote Branch,High,12-07-2025 02:43,,,Open
+INC-2025-0209,Weak Password Policy Violation,Active Directory,Finance,Remote Branch,Low,28-09-2025 04:46,,,Open
+INC-2025-0210,Stale User Account Active,Internal Database,Operations,Data Center B,Medium,06-08-2025 17:24,07-08-2025 00:13,6.82,Resolved
+INC-2025-0211,Unauthorized Access Attempt,Workday HRMS,Marketing,Head Office,Critical,05-12-2025 13:39,07-12-2025 17:18,51.65,Resolved
+INC-2025-0212,Weak Password Policy Violation,AWS Cloud Infrastructure,Finance,Head Office,Critical,06-05-2025 23:02,07-05-2025 05:26,6.41,Closed
+INC-2025-0213,Unpatched Server,Salesforce CRM,Sales,Data Center B,Medium,13-06-2025 18:38,15-06-2025 11:34,40.94,Resolved
+INC-2025-0214,Data Leakage Alert,Active Directory,Sales,Cloud Instance,Medium,21-05-2025 01:35,23-05-2025 04:24,50.83,Resolved
+INC-2025-0215,Failed Patch Deployment,SAP ERP,Operations,Remote Branch,Critical,26-09-2025 10:44,26-09-2025 14:36,3.88,Closed
+INC-2025-0216,Failed Patch Deployment,Active Directory,Legal,Data Center A,Medium,26-08-2025 01:35,26-08-2025 14:30,12.93,Closed
+INC-2025-0217,Unauthorized Access Attempt,Internal Database,Engineering,Remote Branch,Critical,09-07-2025 02:34,09-07-2025 07:38,5.07,Closed
+INC-2025-0218,Unpatched Server,SAP ERP   ,Legal,Data Center B,Critical,10-12-2025 17:13,12-12-2025 18:05,48.87,Closed
+INC-2025-0219,Unauthorized Access Attempt,Internal Database,HR,Remote Branch,Critical,05-05-2025 22:38,06-05-2025 10:45,12.13,Closed
+INC-2025-0220,Stale User Account Active,Office 365,Operations,Cloud Instance,High,07-06-2025 08:23,08-06-2025 00:53,16.51,Closed
+INC-2025-0221,Unpatched Server,Salesforce CRM,Legal,Cloud Instance,High,10-06-2025 13:02,10-06-2025 19:02,6,Closed
+INC-2025-0222,Data Leakage Alert,Internal Database,Sales,Cloud Instance,Critical,20-03-2025 06:21,21-03-2025 02:35,20.24,Closed
+INC-2025-0223,Backup Failure,Salesforce CRM,Engineering,Remote Branch,Medium,25-11-2025 23:31,27-11-2025 07:11,31.67,Closed
+INC-2025-0224,Stale User Account Active,Office 365,HR,Head Office,Medium,26-09-2025 01:53,28-09-2025 23:34,69.69,Resolved
+INC-2025-0225,Unpatched Server,Internal Database,Legal,Head Office,Medium,19-03-2025 00:13,19-03-2025 11:25,11.21,Closed
+INC-2025-0226,Data Leakage Alert,Internal Database,Operations,Head Office,High,04-01-2025 17:35,04-01-2025 18:05,0.5,Closed
+INC-2025-0227,Stale User Account Active,Workday HRMS,Sales,Remote Branch,High,02-04-2025 03:58,02-04-2025 07:50,3.87,Closed
+INC-2025-0228,Data Leakage Alert,Workday HRMS,Engineering,Head Office,Critical,11-07-2025 12:29,16-07-2025 03:34,111.09,Closed
+INC-2025-0229,Stale User Account Active,Workday HRMS,Marketing,Head Office,Medium,17-02-2025 12:24,18-02-2025 03:54,15.51,Closed
+INC-2025-0230,Stale User Account Active,AWS Cloud Infrastructure,Legal,Cloud Instance,Critical,17-10-2025 03:57,17-10-2025 04:59,1.04,Closed
+INC-2025-0231,Unauthorized Access Attempt,SALESFORCE CRM   ,Operations,Head Office,Critical,17-12-2025 08:57,18-12-2025 10:42,25.76,Closed
+INC-2025-0232,Unpatched Server,Office 365,HR,Remote Branch,Low,09-02-2025 09:10,10-02-2025 05:14,20.07,Closed
+INC-2025-0233,Stale User Account Active,Workday HRMS,Operations,Data Center A,High,19-12-2025 23:05,23-12-2025 14:58,87.89,Closed
+INC-2025-0234,Backup Failure,Office 365,Engineering,Data Center B,Medium,01-11-2025 12:49,02-11-2025 12:56,24.13,Closed
+INC-2025-0235,Data Leakage Alert,AWS Cloud Infrastructure,Sales,Data Center A,Critical,15-12-2025 18:42,17-12-2025 06:12,35.5,Closed
+INC-2025-0236,Data Leakage Alert,Active Directory,Engineering,Data Center A,Critical,19-07-2025 10:23,19-07-2025 10:53,0.5,Closed
+INC-2025-0237,Unpatched Server,SAP ERP,HR,Remote Branch,Critical,18-08-2025 17:35,18-08-2025 20:12,2.62,Closed
+INC-2025-0238,Backup Failure,Salesforce CRM,Legal,Remote Branch,Low,07-01-2025 09:26,07-01-2025 11:33,2.12,Closed
+INC-2025-0239,Unpatched Server,Office 365,Sales,Remote Branch,High,28-03-2025 04:17,28-03-2025 20:35,16.31,Closed
+INC-2025-0240,Unauthorized Access Attempt,Workday HRMS,Operations,Cloud Instance,Critical,09-05-2025 07:46,10-05-2025 05:23,21.62,Closed
+INC-2025-0241,Backup Failure,Salesforce CRM,Operations,Data Center B,Low,14-07-2025 10:28,16-07-2025 03:01,40.56,Closed
+INC-2025-0242,Stale User Account Active,Office 365,Engineering,Data Center A,Low,03-09-2025 10:11,,,Open
+INC-2025-0243,Backup Failure,Office 365,Operations,Data Center A,High,16-06-2025 12:17,17-06-2025 00:15,11.98,Resolved
+INC-2025-0244,Stale User Account Active,Active Directory,Sales,Data Center B,Medium,14-01-2025 23:29,15-01-2025 05:08,5.65,Resolved
+INC-2025-0245,Backup Failure,Workday HRMS,Legal,Remote Branch,Medium,11-12-2025 15:08,11-12-2025 21:47,6.65,Closed
+INC-2025-0246,Weak Password Policy Violation,AWS Cloud Infrastructure,Finance,Remote Branch,High,26-10-2025 12:34,29-10-2025 01:18,60.74,Closed
+INC-2025-0247,Backup Failure,Internal Database,Engineering,Data Center B,Medium,01-11-2025 20:58,03-11-2025 08:07,35.16,Closed
+INC-2025-0248,Stale User Account Active,Office 365,Finance,Remote Branch,Medium,19-06-2025 13:06,19-06-2025 20:17,7.19,Closed
+INC-2025-0249,Data Leakage Alert,Active Directory,Sales,Cloud Instance,Critical,20-07-2025 14:49,21-07-2025 18:57,28.14,Closed
+INC-2025-0250,Unauthorized Access Attempt,AWS Cloud Infrastructure,Engineering,Head Office,High,14-03-2025 11:19,16-03-2025 00:07,36.81,Closed
+INC-2025-0251,Data Leakage Alert,Internal Database,Marketing,Cloud Instance,High,04-02-2025 09:02,04-02-2025 11:57,2.93,Resolved
+INC-2025-0252,Unpatched Server,Internal Database,HR,Data Center B,Medium,31-03-2025 17:10,01-04-2025 06:30,13.34,Closed
+INC-2025-0253,Stale User Account Active,Internal Database,HR,Remote Branch,Medium,22-07-2025 00:47,22-07-2025 06:03,5.28,Closed
+INC-2025-0254,Backup Failure,Salesforce CRM,HR,Head Office,Medium,23-10-2025 03:51,23-10-2025 08:49,4.97,Resolved
+INC-2025-0255,Weak Password Policy Violation,AWS Cloud Infrastructure,Legal,Cloud Instance,Critical,02-11-2025 12:39,02-11-2025 15:33,2.91,Closed
+INC-2025-0256,Backup Failure,Internal Database,Marketing,Cloud Instance,Medium,11-11-2025 18:05,12-11-2025 03:06,9.02,Closed
+INC-2025-0257,Data Leakage Alert,Office 365,HR,Remote Branch,High,02-11-2025 04:36,02-11-2025 09:31,4.93,Closed
+INC-2025-0258,Unpatched Server,OFFICE 365   ,HR,Remote Branch,High,28-05-2025 04:11,28-05-2025 18:34,14.39,Closed
+INC-2025-0259,Backup Failure,Active Directory,HR,Remote Branch,Medium,15-10-2025 16:41,16-10-2025 20:23,27.7,Closed
+INC-2025-0260,Unauthorized Access Attempt,Office 365,Finance,Data Center A,High,30-05-2025 01:17,30-05-2025 09:27,8.17,Closed
+INC-2025-0261,Weak Password Policy Violation,Office 365,Operations,Head Office,Medium,21-10-2025 03:17,22-10-2025 20:53,41.6,Resolved
+INC-2025-0262,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Data Center A,Critical,06-08-2025 03:47,07-08-2025 13:11,33.4,Resolved
+INC-2025-0263,Backup Failure,Workday HRMS,Engineering,Head Office,Medium,13-08-2025 03:49,13-08-2025 09:28,5.65,Resolved
+INC-2025-0264,Data Leakage Alert,Internal Database,Sales,Data Center A,Critical,12-11-2025 04:50,12-11-2025 10:23,5.56,Closed
+INC-2025-0265,Failed Patch Deployment,Active Directory,Sales,Cloud Instance,Medium,29-05-2025 18:17,,,Open
+INC-2025-0266,Backup Failure,Workday HRMS,HR,Remote Branch,High,31-01-2025 08:55,01-02-2025 13:55,29.01,Closed
+INC-2025-0267,Backup Failure,Workday HRMS,HR,Remote Branch,Medium,08-09-2025 04:36,09-09-2025 04:19,23.72,Closed
+INC-2025-0268,Data Leakage Alert,SAP ERP,Legal,Data Center B,High,23-05-2025 22:59,24-05-2025 13:32,14.55,Resolved
+INC-2025-0269,Unauthorized Access Attempt,Internal Database,Legal,Remote Branch,High,22-11-2025 21:44,22-11-2025 23:18,1.57,Closed
+INC-2025-0270,Failed Patch Deployment,AWS Cloud Infrastructure,HR,Cloud Instance,High,26-05-2025 10:35,27-05-2025 06:37,20.04,Closed
+INC-2025-0271,Unauthorized Access Attempt,SAP ERP,Finance,Remote Branch,Critical,09-01-2025 03:59,09-01-2025 17:57,13.97,Resolved
+INC-2025-0272,Stale User Account Active,Active Directory,Marketing,Cloud Instance,Medium,23-03-2025 08:05,23-03-2025 15:00,6.92,Closed
+INC-2025-0273,Failed Patch Deployment,Internal Database,Operations,Data Center A,Medium,08-08-2025 20:05,08-08-2025 20:35,0.5,Closed
+INC-2025-0274,Unauthorized Access Attempt,AWS Cloud Infrastructure,Marketing,Head Office,High,23-12-2025 10:52,25-12-2025 10:07,47.25,Closed
+INC-2025-0275,Backup Failure,Internal Database,Finance,Head Office,Medium,22-02-2025 10:23,22-02-2025 13:55,3.54,Resolved
+INC-2025-0276,Unauthorized Access Attempt,Active Directory,Marketing,Data Center B,High,16-10-2025 00:39,16-10-2025 14:34,13.92,Closed
+INC-2025-0277,Stale User Account Active,Office 365,Operations,Remote Branch,Medium,22-04-2025 02:57,23-04-2025 12:27,33.51,Closed
+INC-2025-0278,Unpatched Server,Workday HRMS,Engineering,Data Center A,Medium,22-05-2025 20:05,23-05-2025 18:08,22.05,Closed
+INC-2025-0279,Backup Failure,Workday HRMS,Finance,Cloud Instance,Medium,16-04-2025 16:38,18-04-2025 01:41,33.06,Closed
+INC-2025-0280,Data Leakage Alert,AWS Cloud Infrastructure,HR,Head Office,Medium,04-05-2025 15:40,05-05-2025 09:41,18.03,Closed
+INC-2025-0281,Backup Failure,AWS CLOUD INFRASTRUCTURE   ,HR,Data Center B,Medium,04-08-2025 11:34,05-08-2025 22:05,34.52,Closed
+INC-2025-0282,Failed Patch Deployment,SAP ERP,Finance,Data Center A,High,21-01-2025 01:50,21-01-2025 09:56,8.1,Closed
+INC-2025-0283,Stale User Account Active,SAP ERP,Operations,Data Center B,High,03-10-2025 19:09,04-10-2025 04:03,8.9,Closed
+INC-2025-0284,Data Leakage Alert,Salesforce CRM,Sales,Data Center B,High,21-11-2025 20:43,22-11-2025 05:37,8.91,Closed
+INC-2025-0285,Data Leakage Alert,SAP ERP   ,HR,Head Office,High,21-08-2025 19:38,22-08-2025 21:57,26.32,Closed
+INC-2025-0286,Unauthorized Access Attempt,Internal Database,HR,Data Center A,Critical,12-09-2025 11:33,14-09-2025 05:02,41.49,Closed
+INC-2025-0287,Stale User Account Active,Salesforce CRM,Legal,Head Office,Medium,16-01-2025 10:51,17-01-2025 04:39,17.81,Closed
+INC-2025-0288,Weak Password Policy Violation,AWS Cloud Infrastructure,Operations,Cloud Instance,Critical,29-01-2025 15:54,30-01-2025 02:54,11,Closed
+INC-2025-0289,Unpatched Server,SAP ERP,Marketing,Data Center B,High,02-01-2025 01:54,02-01-2025 08:37,6.73,Resolved
+INC-2025-0290,Weak Password Policy Violation,SAP ERP,Legal,Remote Branch,Critical,25-04-2025 10:15,26-04-2025 16:49,30.58,Closed
+INC-2025-0291,Unauthorized Access Attempt,Internal Database,Sales,Data Center A,Critical,25-04-2025 16:02,,,Open
+INC-2025-0292,Failed Patch Deployment,Salesforce CRM,Legal,Head Office,Medium,11-10-2025 14:00,11-10-2025 22:16,8.27,Closed
+INC-2025-0293,Data Leakage Alert,Office 365,Engineering,Data Center A,Critical,07-10-2025 07:09,07-10-2025 19:48,12.66,Closed
+INC-2025-0294,Unauthorized Access Attempt,Salesforce CRM,Finance,Remote Branch,High,07-06-2025 03:13,07-06-2025 09:44,6.53,Closed
+INC-2025-0295,Unauthorized Access Attempt,Salesforce CRM,Marketing,Head Office,Medium,29-04-2025 16:26,30-04-2025 03:36,11.18,Closed
+INC-2025-0296,Backup Failure,Internal Database,HR,Remote Branch,High,08-02-2025 18:36,09-02-2025 20:39,26.06,Closed
+INC-2025-0297,Stale User Account Active,AWS Cloud Infrastructure,Legal,Cloud Instance,Critical,12-06-2025 14:17,15-06-2025 11:16,68.99,Closed
+INC-2025-0298,Data Leakage Alert,Active Directory,Finance,Remote Branch,Critical,10-06-2025 13:07,13-06-2025 21:19,80.21,Closed
+INC-2025-0299,Unpatched Server,SAP ERP,Finance,Cloud Instance,Critical,27-12-2025 22:38,29-12-2025 18:00,43.38,Closed
+INC-2025-0300,Weak Password Policy Violation,AWS Cloud Infrastructure,Engineering,Head Office,Medium,13-12-2025 09:16,13-12-2025 13:50,4.58,Resolved
+INC-2025-0301,Unauthorized Access Attempt,Active Directory,Sales,Remote Branch,Medium,22-02-2025 04:07,23-02-2025 22:41,42.58,Closed
+INC-2025-0302,Stale User Account Active,Internal Database,Engineering,Head Office,Low,26-10-2025 18:16,26-10-2025 20:08,1.87,Resolved
+INC-2025-0303,Unauthorized Access Attempt,Active Directory,Legal,Cloud Instance,High,04-03-2025 01:29,06-03-2025 15:22,61.89,Closed
+INC-2025-0304,Data Leakage Alert,Internal Database,Operations,Data Center A,High,01-07-2025 06:58,01-07-2025 14:50,7.88,Closed
+INC-2025-0305,Failed Patch Deployment,Internal Database,HR,Remote Branch,High,30-07-2025 17:30,31-07-2025 01:22,7.88,Closed
+INC-2025-0306,Stale User Account Active,Active Directory,Sales,Data Center B,Medium,10-01-2025 12:50,11-01-2025 04:30,15.68,Closed
+INC-2025-0307,Failed Patch Deployment,AWS Cloud Infrastructure,Engineering,Data Center A,High,14-01-2025 10:38,16-01-2025 16:54,54.27,Closed
+INC-2025-0308,Backup Failure,Salesforce CRM,Sales,Data Center B,Medium,30-04-2025 05:06,30-04-2025 11:43,6.62,Closed
+INC-2025-0309,Weak Password Policy Violation,Active Directory,Legal,Remote Branch,Medium,01-07-2025 05:11,01-07-2025 14:22,9.19,Closed
+INC-2025-0310,Failed Patch Deployment,Internal Database,Marketing,Data Center B,Low,16-10-2025 04:36,18-10-2025 00:05,43.49,Resolved
+INC-2025-0311,Unauthorized Access Attempt,AWS Cloud Infrastructure,HR,Head Office,Critical,29-01-2025 07:38,30-01-2025 01:34,17.94,Closed
+INC-2025-0312,Stale User Account Active,Salesforce CRM,HR,Data Center A,High,15-06-2025 01:01,16-06-2025 06:17,29.27,Closed
+INC-2025-0313,Failed Patch Deployment,SAP ERP,Engineering,Remote Branch,Critical,28-10-2025 03:21,28-10-2025 06:52,3.52,Closed
+INC-2025-0314,Failed Patch Deployment,Internal Database,Operations,Data Center A,Medium,15-10-2025 22:56,17-10-2025 12:02,37.11,Resolved
+INC-2025-0315,Stale User Account Active,Internal Database,Engineering,Cloud Instance,Medium,07-03-2025 05:46,08-03-2025 10:49,29.06,Closed
+INC-2025-0316,Unpatched Server,SAP ERP,Sales,Data Center B,High,12-06-2025 19:14,12-06-2025 21:52,2.64,Closed
+INC-2025-0317,Unpatched Server,Salesforce CRM,Engineering,Head Office,Medium,10-12-2025 20:46,11-12-2025 10:58,14.2,Resolved
+INC-2025-0318,Unauthorized Access Attempt,Workday HRMS,Engineering,Head Office,High,25-01-2025 12:28,28-01-2025 23:55,83.45,Closed
+INC-2025-0319,Unauthorized Access Attempt,AWS Cloud Infrastructure,Sales,Remote Branch,Critical,23-10-2025 20:48,24-10-2025 01:03,4.26,Closed
+INC-2025-0320,Unauthorized Access Attempt,Salesforce CRM,Engineering,Head Office,High,25-06-2025 05:56,26-06-2025 13:32,31.6,Closed
+INC-2025-0321,Data Leakage Alert,Office 365,Sales,Head Office,Critical,09-08-2025 20:10,10-08-2025 09:50,13.67,Closed
+INC-2025-0322,Weak Password Policy Violation,Internal Database,Operations,Data Center B,Medium,16-05-2025 21:18,16-05-2025 23:43,2.42,Closed
+INC-2025-0323,Unauthorized Access Attempt,Salesforce CRM,,Remote Branch,Critical,14-02-2025 09:52,15-02-2025 07:52,22,Closed
+INC-2025-0324,Data Leakage Alert,SAP ERP,Engineering,Head Office,Critical,07-06-2025 12:30,08-06-2025 14:27,25.96,Closed
+INC-2025-0325,Unpatched Server,Salesforce CRM,Operations,Remote Branch,Medium,23-01-2025 08:28,23-01-2025 14:37,6.16,Closed
+INC-2025-0326,Unauthorized Access Attempt,SAP ERP,Marketing,Cloud Instance,High,05-10-2025 13:48,06-10-2025 09:09,19.36,Closed
+INC-2025-0327,Backup Failure,Internal Database,Sales,Remote Branch,Low,21-10-2025 07:30,21-10-2025 19:33,12.05,Closed
+INC-2025-0328,Weak Password Policy Violation,Workday HRMS,Sales,Data Center B,High,17-03-2025 03:48,20-03-2025 03:15,71.45,Closed
+INC-2025-0329,Unauthorized Access Attempt,AWS Cloud Infrastructure,Finance,Remote Branch,Medium,14-04-2025 20:09,15-04-2025 03:18,7.16,Resolved
+INC-2025-0330,Data Leakage Alert,Office 365,Operations,Data Center B,High,16-06-2025 08:33,18-06-2025 10:09,49.61,Closed
+INC-2025-0331,Data Leakage Alert,SAP ERP,Operations,Data Center A,Critical,17-03-2025 18:37,21-03-2025 02:57,80.34,Closed
+INC-2025-0332,Backup Failure,Salesforce CRM,Legal,Data Center B,Medium,26-06-2025 13:16,27-06-2025 05:13,15.95,Closed
+INC-2025-0333,Weak Password Policy Violation,Office 365,HR,Remote Branch,High,20-01-2025 12:56,21-01-2025 17:05,28.15,Resolved
+INC-2025-0334,Failed Patch Deployment,SAP ERP,Engineering,Cloud Instance,Critical,09-06-2025 08:53,10-06-2025 13:28,28.59,Closed
+INC-2025-0335,Backup Failure,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,18-05-2025 23:26,19-05-2025 01:40,2.24,Closed
+INC-2025-0336,Weak Password Policy Violation,Workday HRMS,Operations,Cloud Instance,Medium,29-01-2025 16:50,30-01-2025 01:46,8.94,Closed
+INC-2025-0337,Unpatched Server,SAP ERP,Sales,Data Center A,Critical,13-04-2025 01:15,13-04-2025 02:30,1.25,Closed
+INC-2025-0338,Data Leakage Alert,Office 365,Operations,Head Office,Critical,15-12-2025 00:15,15-12-2025 21:53,21.64,Closed
+INC-2025-0339,Unpatched Server,Salesforce CRM,Engineering,Cloud Instance,Low,19-12-2025 02:18,19-12-2025 03:31,1.22,Closed
+INC-2025-0340,Unpatched Server,Internal Database,HR,Data Center A,Low,18-05-2025 20:26,20-05-2025 20:25,47.99,Closed
+INC-2025-0341,Unpatched Server,Internal Database,HR,Data Center B,Medium,05-01-2025 07:16,08-01-2025 04:01,68.75,Closed
+INC-2025-0342,Failed Patch Deployment,WORKDAY HRMS   ,Operations,Remote Branch,Medium,10-05-2025 06:29,11-05-2025 00:08,17.65,Closed
+INC-2025-0343,Backup Failure,Workday HRMS,Marketing,Cloud Instance,High,15-10-2025 20:38,16-10-2025 05:08,8.51,Closed
+INC-2025-0344,Backup Failure,Salesforce CRM,Marketing,Cloud Instance,Medium,14-05-2025 20:45,,,Open
+INC-2025-0345,Backup Failure,SAP ERP,HR,Data Center B,High,26-07-2025 21:20,28-07-2025 03:59,30.66,Closed
+INC-2025-0346,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Head Office,High,26-10-2025 22:36,27-10-2025 08:41,10.09,Resolved
+INC-2025-0347,Failed Patch Deployment,Internal Database,Operations,Data Center B,Medium,03-06-2025 05:53,04-06-2025 01:29,19.61,Closed
+INC-2025-0348,Weak Password Policy Violation,Workday HRMS,Marketing,Data Center A,Medium,15-12-2025 10:41,15-12-2025 21:12,10.53,Closed
+INC-2025-0349,Failed Patch Deployment,Salesforce CRM,Engineering,Data Center B,Medium,31-05-2025 14:54,31-05-2025 16:13,1.32,Closed
+INC-2025-0350,Weak Password Policy Violation,Active Directory,Operations,Head Office,Low,15-12-2025 12:33,15-12-2025 13:52,1.33,Closed
+INC-2025-0351,Data Leakage Alert,Office 365,Operations,Data Center A,High,11-06-2025 22:11,12-06-2025 14:14,16.05,Resolved
+INC-2025-0352,Failed Patch Deployment,AWS Cloud Infrastructure,Finance,Data Center A,High,28-03-2025 18:48,30-03-2025 07:42,36.91,Closed
+INC-2025-0353,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Remote Branch,Medium,16-07-2025 00:02,17-07-2025 07:30,31.48,Closed
+INC-2025-0354,Unauthorized Access Attempt,Active Directory,Sales,Head Office,Critical,17-11-2025 23:15,20-11-2025 01:32,50.29,Closed
+INC-2025-0355,Unauthorized Access Attempt,Active Directory,Engineering,Head Office,Critical,02-06-2025 09:29,03-06-2025 07:15,21.77,Closed
+INC-2025-0356,Failed Patch Deployment,AWS Cloud Infrastructure,Engineering,Data Center A,Critical,26-03-2025 12:01,27-03-2025 19:11,31.17,Closed
+INC-2025-0357,Failed Patch Deployment,SAP ERP,HR,Head Office,High,12-07-2025 20:16,13-07-2025 19:41,23.42,Resolved
+INC-2025-0358,Unauthorized Access Attempt,SAP ERP,Legal,Head Office,High,02-08-2025 14:24,02-08-2025 21:23,6.99,Closed
+INC-2025-0359,Data Leakage Alert,Salesforce CRM,Finance,Head Office,High,06-12-2025 16:17,07-12-2025 21:14,28.95,Closed
+INC-2025-0360,Failed Patch Deployment,SAP ERP,Sales,Head Office,High,24-02-2025 15:12,26-02-2025 03:19,36.12,Closed
+INC-2025-0361,Unpatched Server,Salesforce CRM,,Head Office,Medium,08-10-2025 15:58,11-10-2025 08:53,64.92,Closed
+INC-2025-0362,Weak Password Policy Violation,Workday HRMS,Finance,Remote Branch,High,18-03-2025 02:49,19-03-2025 09:40,30.86,Closed
+INC-2025-0363,Data Leakage Alert,Salesforce CRM,Engineering,Head Office,High,21-02-2025 05:55,21-02-2025 14:09,8.24,Closed
+INC-2025-0364,Backup Failure,Workday HRMS,Finance,Head Office,Low,05-01-2025 04:42,05-01-2025 14:15,9.56,Closed
+INC-2025-0365,Failed Patch Deployment,SAP ERP,Marketing,Cloud Instance,High,04-04-2025 03:25,04-04-2025 18:03,14.64,Closed
+INC-2025-0366,Backup Failure,Internal Database,Operations,Data Center A,Low,27-02-2025 04:44,03-03-2025 04:35,95.85,Closed
+INC-2025-0367,Weak Password Policy Violation,Workday HRMS,Operations,Remote Branch,Low,03-04-2025 19:24,04-04-2025 18:04,22.68,Resolved
+INC-2025-0368,Data Leakage Alert,AWS Cloud Infrastructure,HR,Head Office,Critical,30-07-2025 14:02,31-07-2025 15:34,25.54,Closed
+INC-2025-0369,Stale User Account Active,Office 365,Marketing,Data Center B,Medium,25-04-2025 21:55,26-04-2025 15:41,17.77,Closed
+INC-2025-0370,Failed Patch Deployment,AWS Cloud Infrastructure,HR,Remote Branch,Critical,18-03-2025 17:57,,,Open
+INC-2025-0371,Backup Failure,AWS Cloud Infrastructure,Legal,Remote Branch,Medium,26-03-2025 02:48,26-03-2025 09:24,6.61,Closed
+INC-2025-0372,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Data Center A,High,10-02-2025 14:28,11-02-2025 04:44,14.27,Resolved
+INC-2025-0373,Stale User Account Active,Internal Database,Operations,Head Office,Low,22-02-2025 12:26,23-02-2025 07:33,19.12,Closed
+INC-2025-0374,Weak Password Policy Violation,Salesforce CRM,Marketing,Data Center B,Low,16-04-2025 20:42,17-04-2025 06:42,10,Closed
+INC-2025-0375,Backup Failure,Office 365,Engineering,Data Center B,High,04-11-2025 15:45,05-11-2025 21:57,30.2,Closed
+INC-2025-0376,Backup Failure,Salesforce CRM,Engineering,Cloud Instance,High,08-10-2025 16:23,08-10-2025 17:30,1.12,Closed
+INC-2025-0377,Unauthorized Access Attempt,AWS Cloud Infrastructure,Marketing,Cloud Instance,Critical,09-11-2025 06:12,11-11-2025 04:04,45.88,Closed
+INC-2025-0378,Backup Failure,SAP ERP,Engineering,Remote Branch,High,24-01-2025 20:53,25-01-2025 00:02,3.16,Closed
+INC-2025-0379,Data Leakage Alert,Active Directory,Sales,Head Office,High,29-09-2025 23:03,30-09-2025 12:39,13.61,Closed
+INC-2025-0380,Weak Password Policy Violation,Internal Database,HR,Data Center A,Medium,07-03-2025 03:24,08-03-2025 01:45,22.36,Closed
+INC-2025-0381,Backup Failure,Internal Database,Sales,Data Center A,Medium,21-05-2025 12:21,,,Open
+INC-2025-0382,Weak Password Policy Violation,Internal Database,Marketing,Cloud Instance,Medium,26-12-2025 17:55,28-12-2025 01:57,32.04,Closed
+INC-2025-0383,Stale User Account Active,Salesforce CRM,Marketing,Cloud Instance,Medium,11-12-2025 04:45,14-12-2025 09:01,76.27,Closed
+INC-2025-0384,Failed Patch Deployment,Workday HRMS,Finance,Data Center B,Medium,03-09-2025 18:36,05-09-2025 00:19,29.72,Resolved
+INC-2025-0385,Backup Failure,AWS Cloud Infrastructure,Legal,Head Office,Critical,25-09-2025 03:01,25-09-2025 04:19,1.31,Closed
+INC-2025-0386,Failed Patch Deployment,Internal Database,Engineering,Data Center A,High,01-02-2025 22:50,03-02-2025 08:27,33.62,Closed
+INC-2025-0387,Stale User Account Active,Internal Database,Legal,Data Center B,Medium,25-04-2025 23:41,26-04-2025 06:11,6.51,Closed
+INC-2025-0388,Data Leakage Alert,SAP ERP,Marketing,Remote Branch,Critical,02-08-2025 21:20,,,Open
+INC-2025-0389,Backup Failure,Workday HRMS,Legal,Remote Branch,Medium,26-04-2025 20:45,27-04-2025 07:45,11,Closed
+INC-2025-0390,Failed Patch Deployment,Active Directory,Marketing,Remote Branch,Medium,01-04-2025 21:04,02-04-2025 01:38,4.58,Closed
+INC-2025-0391,Unpatched Server,Salesforce CRM,Sales,Data Center A,High,27-10-2025 08:00,28-10-2025 13:40,29.68,Closed
+INC-2025-0392,Stale User Account Active,Workday HRMS,Finance,Data Center B,High,05-12-2025 09:31,06-12-2025 04:41,19.17,Resolved
+INC-2025-0393,Unauthorized Access Attempt,Office 365,HR,Data Center B,Critical,23-03-2025 13:34,23-03-2025 15:52,2.31,Closed
+INC-2025-0394,Unpatched Server,Salesforce CRM,Engineering,Data Center B,High,29-09-2025 15:35,03-10-2025 14:52,95.29,Resolved
+INC-2025-0395,Weak Password Policy Violation,Office 365,Marketing,Data Center A,Low,21-01-2025 21:56,24-01-2025 09:21,59.43,Closed
+INC-2025-0396,Weak Password Policy Violation,SAP ERP,Engineering,Cloud Instance,High,21-09-2025 16:28,22-09-2025 00:54,8.44,Closed
+INC-2025-0397,Backup Failure,Active Directory,Finance,Data Center B,Medium,01-10-2025 00:40,02-10-2025 03:17,26.63,Closed
+INC-2025-0398,Weak Password Policy Violation,Active Directory,Finance,Remote Branch,Medium,28-11-2025 02:47,28-11-2025 03:21,0.58,Closed
+INC-2025-0399,Failed Patch Deployment,Workday HRMS,HR,Data Center B,Medium,06-02-2025 18:52,07-02-2025 02:02,7.18,Closed
+INC-2025-0400,Stale User Account Active,AWS Cloud Infrastructure,Finance,Head Office,High,01-10-2025 00:41,01-10-2025 02:15,1.57,Closed
+INC-2025-0401,Unauthorized Access Attempt,Office 365,Engineering,Cloud Instance,High,18-12-2025 09:38,19-12-2025 20:24,34.78,Closed
+INC-2025-0402,Weak Password Policy Violation,Active Directory,Operations,Data Center A,Medium,11-03-2025 23:25,13-03-2025 20:52,45.45,Resolved
+INC-2025-0403,Stale User Account Active,Workday HRMS,Legal,Cloud Instance,High,06-01-2025 17:55,06-01-2025 21:04,3.16,Closed
+INC-2025-0404,Unpatched Server,Salesforce CRM,Finance,Cloud Instance,High,19-04-2025 13:57,20-04-2025 07:12,17.25,Closed
+INC-2025-0405,Unpatched Server,SAP ERP,HR,Data Center B,High,28-01-2025 17:29,28-01-2025 19:18,1.82,Closed
+INC-2025-0406,Failed Patch Deployment,AWS Cloud Infrastructure,Sales,Cloud Instance,Critical,07-03-2025 21:41,08-03-2025 05:44,8.06,Closed
+INC-2025-0407,Stale User Account Active,OFFICE 365   ,Engineering,Cloud Instance,Medium,22-12-2025 18:09,23-12-2025 05:01,10.88,Closed
+INC-2025-0408,Unpatched Server,Workday HRMS,HR,Remote Branch,Medium,22-05-2025 11:08,22-05-2025 20:48,9.67,Closed
+INC-2025-0409,Unauthorized Access Attempt,Office 365,Operations,Data Center A,Critical,27-11-2025 19:05,29-11-2025 18:03,46.97,Resolved
+INC-2025-0410,Stale User Account Active,SAP ERP,Marketing,Head Office,High,10-01-2025 16:40,11-01-2025 13:35,20.93,Closed
+INC-2025-0411,Weak Password Policy Violation,Salesforce CRM,Sales,Data Center B,Low,30-08-2025 20:49,31-08-2025 08:46,11.96,Closed
+INC-2025-0412,Weak Password Policy Violation,AWS Cloud Infrastructure,HR,Data Center B,High,16-02-2025 12:23,17-02-2025 14:27,26.08,Closed
+INC-2025-0413,Weak Password Policy Violation,Workday HRMS,HR,Data Center A,Low,17-08-2025 05:11,18-08-2025 01:12,20.02,Closed
+INC-2025-0414,Unpatched Server,SAP ERP,Engineering,Remote Branch,Critical,29-04-2025 02:16,29-04-2025 03:19,1.05,Closed
+INC-2025-0415,Unauthorized Access Attempt,AWS Cloud Infrastructure,Operations,Head Office,High,29-11-2025 10:06,30-11-2025 03:46,17.68,Closed
+INC-2025-0416,Unpatched Server,Office 365,Sales,Remote Branch,High,01-12-2025 12:23,03-12-2025 19:13,54.84,Closed
+INC-2025-0417,Data Leakage Alert,Office 365,HR,Cloud Instance,High,26-06-2025 15:50,27-06-2025 14:04,22.24,Closed
+INC-2025-0418,Stale User Account Active,Office 365,Finance,Cloud Instance,Low,19-04-2025 04:11,20-04-2025 02:17,22.11,Closed
+INC-2025-0419,Unauthorized Access Attempt,Internal Database,,Remote Branch,High,12-12-2025 15:30,12-12-2025 19:43,4.22,Closed
+INC-2025-0420,Unpatched Server,Office 365,Sales,Data Center A,High,19-11-2025 16:02,19-11-2025 19:50,3.81,Resolved
+INC-2025-0421,Weak Password Policy Violation,Office 365,Operations,Head Office,Medium,05-12-2025 09:05,06-12-2025 07:28,22.39,Closed
+INC-2025-0422,Unpatched Server,Office 365,Operations,Data Center B,Medium,04-04-2025 19:42,05-04-2025 00:06,4.41,Closed
+INC-2025-0423,Data Leakage Alert,Active Directory,Finance,Remote Branch,High,09-03-2025 03:01,11-03-2025 02:08,47.12,Closed
+INC-2025-0424,Data Leakage Alert,Active Directory,Finance,Data Center B,Critical,04-11-2025 01:56,04-11-2025 18:44,16.8,Resolved
+INC-2025-0425,Backup Failure,Office 365,Sales,Head Office,High,14-12-2025 20:27,15-12-2025 07:33,11.1,Closed
+INC-2025-0426,Backup Failure,AWS Cloud Infrastructure,Legal,Remote Branch,High,29-06-2025 18:51,01-07-2025 05:15,34.41,Closed
+INC-2025-0427,Unpatched Server,WORKDAY HRMS   ,Operations,Head Office,High,26-05-2025 19:56,27-05-2025 03:05,7.16,Closed
+INC-2025-0428,Weak Password Policy Violation,SAP ERP,Sales,Head Office,Critical,12-07-2025 20:13,13-07-2025 05:19,9.11,Closed
+INC-2025-0429,Backup Failure,Salesforce CRM,Engineering,Data Center B,Medium,05-08-2025 18:23,10-08-2025 13:39,115.28,Closed
+INC-2025-0430,Unpatched Server,AWS Cloud Infrastructure,Sales,Cloud Instance,Critical,14-10-2025 17:30,15-10-2025 02:17,8.79,Closed
+INC-2025-0431,Stale User Account Active,Workday HRMS,Legal,Head Office,Medium,28-04-2025 14:50,28-04-2025 19:04,4.24,Closed
+INC-2025-0432,Stale User Account Active,Office 365,Sales,Head Office,High,24-03-2025 12:40,24-03-2025 14:57,2.29,Closed
+INC-2025-0433,Unpatched Server,Salesforce CRM,Finance,Cloud Instance,Medium,10-02-2025 19:02,13-02-2025 11:05,64.06,Closed
+INC-2025-0434,Backup Failure,SAP ERP,Sales,Data Center A,Medium,24-11-2025 15:28,26-11-2025 13:05,45.62,Closed
+INC-2025-0435,Weak Password Policy Violation,Office 365,,Data Center B,Medium,24-12-2025 07:39,24-12-2025 08:31,0.88,Closed
+INC-2025-0436,Data Leakage Alert,Workday HRMS,Engineering,Cloud Instance,High,09-12-2025 12:25,10-12-2025 05:55,17.5,Closed
+INC-2025-0437,Backup Failure,Internal Database,Engineering,Data Center B,Medium,26-10-2025 11:22,,,Open
+INC-2025-0438,Unauthorized Access Attempt,Office 365,Operations,Cloud Instance,Critical,31-03-2025 13:32,31-03-2025 15:20,1.8,Closed
+INC-2025-0439,Backup Failure,Office 365,Engineering,Data Center B,Medium,09-05-2025 22:28,,,Open
+INC-2025-0440,Stale User Account Active,AWS Cloud Infrastructure,Legal,Remote Branch,High,28-10-2025 00:30,28-10-2025 02:10,1.68,Closed
+INC-2025-0441,Failed Patch Deployment,Workday HRMS,HR,Remote Branch,Medium,30-06-2025 16:34,02-07-2025 11:24,42.84,Closed
+INC-2025-0442,Unauthorized Access Attempt,Salesforce CRM,Legal,Data Center B,Critical,02-04-2025 15:20,04-04-2025 21:16,53.94,Closed
+INC-2025-0443,Stale User Account Active,AWS Cloud Infrastructure,HR,Data Center A,Critical,01-05-2025 23:15,02-05-2025 04:48,5.56,Resolved
+INC-2025-0444,Unauthorized Access Attempt,Workday HRMS,HR,Head Office,High,10-02-2025 21:42,10-02-2025 22:12,0.5,Closed
+INC-2025-0445,Failed Patch Deployment,Office 365,Engineering,Remote Branch,Medium,22-10-2025 08:31,23-10-2025 19:11,34.68,Closed
+INC-2025-0446,Weak Password Policy Violation,SAP ERP,HR,Remote Branch,High,02-09-2025 17:02,03-09-2025 05:02,12.01,Closed
+INC-2025-0447,Data Leakage Alert,Office 365,Marketing,Cloud Instance,Critical,19-12-2025 00:00,19-12-2025 11:27,11.45,Closed
+INC-2025-0448,Failed Patch Deployment,Office 365,HR,Data Center A,Medium,18-05-2025 15:39,18-05-2025 20:31,4.88,Closed
+INC-2025-0449,Data Leakage Alert,Workday HRMS,Engineering,Cloud Instance,Critical,19-08-2025 05:36,20-08-2025 02:11,20.59,Closed
+INC-2025-0450,Data Leakage Alert,Office 365,HR,Remote Branch,Critical,11-04-2025 04:51,,,Open
+INC-2025-0451,Backup Failure,Active Directory,Operations,Data Center B,Medium,01-10-2025 23:20,02-10-2025 07:53,8.56,Resolved
+INC-2025-0452,Unauthorized Access Attempt,Active Directory,Marketing,Data Center A,Critical,11-05-2025 15:53,12-05-2025 06:13,14.34,Closed
+INC-2025-0453,Failed Patch Deployment,Salesforce CRM,Legal,Head Office,High,30-07-2025 03:22,02-08-2025 10:34,79.2,Resolved
+INC-2025-0454,Failed Patch Deployment,Workday HRMS,HR,Cloud Instance,Low,16-06-2025 21:32,18-06-2025 05:32,32.01,Closed
+INC-2025-0455,Backup Failure,Active Directory,Marketing,Data Center A,Low,24-11-2025 10:26,25-11-2025 06:47,20.35,Closed
+INC-2025-0456,Failed Patch Deployment,Salesforce CRM,HR,Cloud Instance,Medium,17-05-2025 19:41,20-05-2025 00:09,52.48,Closed
+INC-2025-0457,Data Leakage Alert,AWS Cloud Infrastructure,Sales,Data Center A,Medium,05-04-2025 00:08,06-04-2025 02:09,26.03,Closed
+INC-2025-0458,Unauthorized Access Attempt,AWS Cloud Infrastructure,HR,Head Office,High,02-02-2025 15:35,04-02-2025 02:57,35.37,Closed
+INC-2025-0459,Unauthorized Access Attempt,Active Directory,Sales,Remote Branch,Critical,08-06-2025 07:15,08-06-2025 21:18,14.05,Closed
+INC-2025-0460,Failed Patch Deployment,Internal Database,Finance,Cloud Instance,Medium,01-09-2025 14:55,01-09-2025 22:32,7.63,Closed
+INC-2025-0461,Weak Password Policy Violation,Office 365,HR,Remote Branch,Medium,20-11-2025 23:40,21-11-2025 13:22,13.7,Resolved
+INC-2025-0462,Unpatched Server,Office 365,Operations,Head Office,High,15-08-2025 09:23,15-08-2025 13:26,4.06,Closed
+INC-2025-0463,Failed Patch Deployment,Salesforce CRM,,Remote Branch,Medium,01-10-2025 00:44,03-10-2025 23:12,70.48,Resolved
+INC-2025-0464,Unpatched Server,Office 365,Engineering,Head Office,Medium,08-10-2025 11:12,09-10-2025 06:55,19.73,Closed
+INC-2025-0465,Data Leakage Alert,Workday HRMS,Operations,Data Center A,High,15-05-2025 02:27,15-05-2025 19:54,17.45,Closed
+INC-2025-0466,Stale User Account Active,Salesforce CRM,Engineering,Data Center B,Medium,18-05-2025 13:12,18-05-2025 18:01,4.83,Resolved
+INC-2025-0467,Weak Password Policy Violation,Internal Database,Engineering,Remote Branch,High,07-04-2025 10:01,10-04-2025 21:56,83.93,Closed
+INC-2025-0468,Data Leakage Alert,Internal Database,HR,Head Office,High,30-04-2025 02:09,30-04-2025 08:01,5.88,Closed
+INC-2025-0469,Stale User Account Active,AWS Cloud Infrastructure,Engineering,Head Office,Critical,19-06-2025 02:53,19-06-2025 06:40,3.79,Resolved
+INC-2025-0470,Backup Failure,Active Directory,HR,Cloud Instance,Medium,15-07-2025 00:07,,,Open
+INC-2025-0471,Unauthorized Access Attempt,Internal Database,HR,Data Center A,Critical,24-08-2025 23:49,26-08-2025 02:08,26.32,Closed
+INC-2025-0472,Stale User Account Active,Active Directory,Engineering,Head Office,High,09-10-2025 16:07,10-10-2025 16:32,24.42,Closed
+INC-2025-0473,Unpatched Server,SAP ERP,HR,Remote Branch,Critical,16-06-2025 00:10,16-06-2025 21:15,21.09,Resolved
+INC-2025-0474,Stale User Account Active,Workday HRMS,Sales,Remote Branch,High,19-12-2025 19:09,19-12-2025 21:24,2.25,Closed
+INC-2025-0475,Unauthorized Access Attempt,Internal Database,Legal,Head Office,Critical,02-07-2025 20:09,04-07-2025 09:46,37.62,Closed
+INC-2025-0476,Backup Failure,Internal Database,Legal,Cloud Instance,Medium,13-08-2025 23:12,14-08-2025 10:35,11.39,Closed
+INC-2025-0477,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Cloud Instance,Critical,05-10-2025 22:31,06-10-2025 03:28,4.96,Closed
+INC-2025-0478,Backup Failure,OFFICE 365   ,Legal,Data Center B,Medium,24-03-2025 02:33,24-03-2025 10:57,8.41,Closed
+INC-2025-0479,Data Leakage Alert,Office 365,Marketing,Data Center A,Critical,10-01-2025 19:54,11-01-2025 19:07,23.23,Closed
+INC-2025-0480,Unpatched Server,AWS Cloud Infrastructure,Legal,Data Center B,Critical,16-12-2025 15:49,17-12-2025 14:36,22.79,Closed
+INC-2025-0481,Unauthorized Access Attempt,Internal Database,Sales,Head Office,Critical,08-03-2025 05:55,08-03-2025 08:38,2.72,Closed
+INC-2025-0482,Data Leakage Alert,Internal Database,Operations,Data Center B,High,16-11-2025 22:37,17-11-2025 09:34,10.95,Closed
+INC-2025-0483,Data Leakage Alert,Internal Database,HR,Head Office,High,28-08-2025 20:03,30-08-2025 04:42,32.65,Closed
+INC-2025-0484,Weak Password Policy Violation,Workday HRMS,Finance,Cloud Instance,Low,28-09-2025 01:46,28-09-2025 10:27,8.69,Closed
+INC-2025-0485,Weak Password Policy Violation,Active Directory,Marketing,Remote Branch,Low,08-04-2025 06:33,09-04-2025 02:48,20.26,Closed
+INC-2025-0486,Backup Failure,SAP ERP,Marketing,Data Center B,Critical,03-07-2025 21:29,04-07-2025 10:51,13.37,Closed
+INC-2025-0487,Stale User Account Active,Salesforce CRM,Sales,Data Center A,Medium,01-10-2025 19:28,04-10-2025 03:20,55.87,Resolved
+INC-2025-0488,Stale User Account Active,Workday HRMS,Operations,Remote Branch,Medium,15-06-2025 19:15,16-06-2025 01:01,5.78,Closed
+INC-2025-0489,Data Leakage Alert,AWS Cloud Infrastructure,,Head Office,High,18-01-2025 09:38,18-01-2025 13:06,3.48,Closed
+INC-2025-0490,Failed Patch Deployment,Workday HRMS,HR,Head Office,Low,20-12-2025 08:58,21-12-2025 04:28,19.5,Closed
+INC-2025-0491,Unpatched Server,Active Directory,Engineering,Cloud Instance,High,07-07-2025 18:15,09-07-2025 10:14,39.99,Closed
+INC-2025-0492,Stale User Account Active,SAP ERP,Marketing,Cloud Instance,High,05-09-2025 05:31,06-09-2025 09:35,28.08,Resolved
+INC-2025-0493,Stale User Account Active,SAP ERP,Engineering,Data Center B,Critical,15-07-2025 02:49,16-07-2025 14:11,35.37,Closed
+INC-2025-0494,Backup Failure,SAP ERP,Legal,Data Center A,Critical,01-12-2025 19:59,03-12-2025 08:02,36.06,Closed
+INC-2025-0495,Unpatched Server,Office 365,Sales,Cloud Instance,Low,15-09-2025 22:14,17-09-2025 01:06,26.87,Closed
+INC-2025-0496,Unauthorized Access Attempt,Office 365,Sales,Data Center A,Critical,10-08-2025 09:50,10-08-2025 13:14,3.4,Closed
+INC-2025-0497,Unauthorized Access Attempt,Salesforce CRM,Operations,Remote Branch,High,14-09-2025 13:49,16-09-2025 00:16,34.45,Closed
+INC-2025-0498,Weak Password Policy Violation,Active Directory,Sales,Data Center B,Medium,26-09-2025 07:15,27-09-2025 19:14,35.99,Closed
+INC-2025-0499,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,28-06-2025 06:20,29-06-2025 07:54,25.57,Closed
+INC-2025-0500,Data Leakage Alert,Workday HRMS,Legal,Data Center B,High,16-03-2025 14:02,16-03-2025 20:24,6.38,Resolved
+INC-2025-0501,Stale User Account Active,SAP ERP,Finance,Head Office,Critical,05-05-2025 19:59,07-05-2025 14:51,42.87,Closed
+INC-2025-0502,Data Leakage Alert,AWS Cloud Infrastructure,Engineering,Head Office,High,19-06-2025 06:47,19-06-2025 12:15,5.47,Closed
+INC-2025-0503,Stale User Account Active,Active Directory,Marketing,Head Office,High,12-07-2025 18:57,12-07-2025 20:01,1.07,Closed
+INC-2025-0504,Unauthorized Access Attempt,Salesforce CRM,Sales,Remote Branch,High,02-12-2025 00:04,02-12-2025 07:40,7.6,Closed
+INC-2025-0505,Backup Failure,Salesforce CRM,Finance,Remote Branch,High,29-04-2025 12:32,,,Open
+INC-2025-0506,Unpatched Server,SAP ERP,Sales,Data Center A,Critical,14-09-2025 14:35,14-09-2025 15:06,0.52,Resolved
+INC-2025-0507,Unpatched Server,Internal Database,Operations,Head Office,Low,27-06-2025 21:22,28-06-2025 06:00,8.64,Closed
+INC-2025-0508,Failed Patch Deployment,Internal Database,Finance,Remote Branch,Medium,16-01-2025 17:17,17-01-2025 03:19,10.04,Closed
+INC-2025-0509,Weak Password Policy Violation,Internal Database,Sales,Data Center A,Low,02-08-2025 07:36,05-08-2025 20:11,84.59,Closed
+INC-2025-0510,Unpatched Server,Internal Database,HR,Data Center B,Medium,05-10-2025 21:51,06-10-2025 01:25,3.57,Closed
+INC-2025-0511,Unpatched Server,Workday HRMS,Operations,Data Center B,High,22-03-2025 10:04,25-03-2025 09:18,71.24,Closed
+INC-2025-0512,Backup Failure,SAP ERP,Marketing,Cloud Instance,High,31-07-2025 13:19,03-08-2025 06:28,65.15,Closed
+INC-2025-0513,Unauthorized Access Attempt,Active Directory,Legal,Data Center A,High,05-04-2025 00:48,,,Open
+INC-2025-0514,Unpatched Server,Active Directory,Sales,Head Office,Low,03-07-2025 02:44,03-07-2025 06:11,3.46,Resolved
+INC-2025-0515,Data Leakage Alert,Workday HRMS,,Remote Branch,High,31-08-2025 04:10,31-08-2025 04:57,0.79,Closed
+INC-2025-0516,Stale User Account Active,Active Directory,Operations,Data Center A,Low,15-04-2025 02:11,19-04-2025 08:00,101.82,Resolved
+INC-2025-0517,Data Leakage Alert,Active Directory,Operations,Remote Branch,Critical,22-01-2025 19:47,24-01-2025 02:21,30.57,Resolved
+INC-2025-0518,Stale User Account Active,Office 365,Sales,Head Office,Low,24-09-2025 03:28,26-09-2025 05:54,50.44,Closed
+INC-2025-0519,Weak Password Policy Violation,SAP ERP,Marketing,Remote Branch,High,22-09-2025 20:03,23-09-2025 09:57,13.9,Closed
+INC-2025-0520,Failed Patch Deployment,AWS Cloud Infrastructure,HR,Data Center B,High,28-01-2025 22:33,29-01-2025 13:30,14.95,Resolved
+INC-2025-0521,Weak Password Policy Violation,Workday HRMS,HR,Data Center B,Medium,11-03-2025 12:26,11-03-2025 13:02,0.61,Closed
+INC-2025-0522,Failed Patch Deployment,SAP ERP,Operations,Cloud Instance,High,21-12-2025 20:58,22-12-2025 01:16,4.3,Closed
+INC-2025-0523,Unauthorized Access Attempt,Salesforce CRM,Marketing,Data Center B,High,16-07-2025 23:50,,,Open
+INC-2025-0524,Unpatched Server,Workday HRMS,Finance,Cloud Instance,High,17-10-2025 21:55,19-10-2025 22:40,48.75,Closed
+INC-2025-0525,Backup Failure,Internal Database,Engineering,Remote Branch,Medium,28-05-2025 20:11,28-05-2025 23:34,3.39,Closed
+INC-2025-0526,Backup Failure,AWS Cloud Infrastructure,Operations,Remote Branch,High,06-10-2025 00:38,06-10-2025 07:09,6.52,Resolved
+INC-2025-0527,Weak Password Policy Violation,Office 365,Finance,Head Office,Low,06-05-2025 17:17,07-05-2025 12:51,19.57,Closed
+INC-2025-0528,Unauthorized Access Attempt,Salesforce CRM,Marketing,Data Center A,Medium,17-01-2025 21:36,18-01-2025 06:06,8.51,Resolved
+INC-2025-0529,Stale User Account Active,Active Directory,HR,Cloud Instance,Medium,09-11-2025 21:44,10-11-2025 18:06,20.38,Closed
+INC-2025-0530,Unauthorized Access Attempt,SAP ERP,Engineering,Cloud Instance,High,15-06-2025 11:57,15-06-2025 13:37,1.68,Closed
+INC-2025-0531,Stale User Account Active,SAP ERP,HR,Cloud Instance,High,18-06-2025 16:26,19-06-2025 20:59,28.56,Closed
+INC-2025-0532,Unauthorized Access Attempt,Office 365,Marketing,Remote Branch,High,19-12-2025 19:59,21-12-2025 01:26,29.45,Resolved
+INC-2025-0533,Failed Patch Deployment,Office 365,Sales,Data Center A,Medium,11-11-2025 18:31,12-11-2025 18:29,23.98,Closed
+INC-2025-0534,Unpatched Server,Salesforce CRM,Marketing,Head Office,Low,02-03-2025 00:29,02-03-2025 03:29,3.01,Closed
+INC-2025-0535,Failed Patch Deployment,SAP ERP,Operations,Cloud Instance,Critical,14-10-2025 20:13,15-10-2025 01:36,5.39,Closed
+INC-2025-0536,Failed Patch Deployment,Office 365,,Head Office,Medium,28-02-2025 21:21,02-03-2025 04:16,30.93,Closed
+INC-2025-0537,Failed Patch Deployment,Workday HRMS,Engineering,Remote Branch,Medium,31-08-2025 01:41,31-08-2025 05:44,4.05,Closed
+INC-2025-0538,Backup Failure,Workday HRMS,,Remote Branch,Medium,29-01-2025 16:19,30-01-2025 19:31,27.21,Closed
+INC-2025-0539,Backup Failure,Workday HRMS,Engineering,Cloud Instance,Medium,03-02-2025 04:17,03-02-2025 14:13,9.94,Resolved
+INC-2025-0540,Unpatched Server,AWS Cloud Infrastructure,Sales,Data Center B,Critical,01-03-2025 09:45,02-03-2025 15:27,29.7,Resolved
+INC-2025-0541,Backup Failure,AWS Cloud Infrastructure,Engineering,Cloud Instance,Critical,21-04-2025 16:19,22-04-2025 03:34,11.25,Closed
+INC-2025-0542,Backup Failure,SAP ERP,Sales,Remote Branch,High,14-09-2025 04:12,14-09-2025 20:03,15.86,Closed
+INC-2025-0543,Unauthorized Access Attempt,WORKDAY HRMS   ,Legal,Data Center B,High,13-12-2025 04:13,13-12-2025 18:58,14.76,Closed
+INC-2025-0544,Backup Failure,Internal Database,Finance,Data Center B,Medium,14-02-2025 10:29,14-02-2025 13:05,2.61,Resolved
+INC-2025-0545,Stale User Account Active,Salesforce CRM,Legal,Data Center A,Medium,14-06-2025 06:12,15-06-2025 00:26,18.24,Closed
+INC-2025-0546,Unauthorized Access Attempt,Salesforce CRM,HR,Head Office,High,15-11-2025 17:32,16-11-2025 12:18,18.77,Closed
+INC-2025-0547,Weak Password Policy Violation,Salesforce CRM,Legal,Data Center A,Medium,29-03-2025 02:19,29-03-2025 12:14,9.93,Closed
+INC-2025-0548,Unauthorized Access Attempt,SAP ERP,Marketing,Remote Branch,High,28-01-2025 02:27,29-01-2025 07:43,29.27,Closed
+INC-2025-0549,Failed Patch Deployment,Office 365,Operations,Cloud Instance,High,20-06-2025 06:45,21-06-2025 22:31,39.77,Resolved
+INC-2025-0550,Unauthorized Access Attempt,Active Directory,Sales,Remote Branch,High,19-02-2025 14:19,20-02-2025 20:02,29.73,Closed
+INC-2025-0551,Failed Patch Deployment,Office 365,Legal,Cloud Instance,Low,20-07-2025 05:44,20-07-2025 15:21,9.62,Resolved
+INC-2025-0552,Unauthorized Access Attempt,AWS Cloud Infrastructure,Finance,Cloud Instance,High,03-09-2025 14:54,05-09-2025 01:57,35.06,Closed
+INC-2025-0553,Backup Failure,Internal Database,Legal,Head Office,Medium,16-06-2025 17:41,17-06-2025 02:18,8.63,Closed
+INC-2025-0554,Unpatched Server,Office 365,HR,Remote Branch,Medium,16-07-2025 02:21,17-07-2025 06:46,28.42,Closed
+INC-2025-0555,Stale User Account Active,Office 365,Engineering,Data Center A,Medium,30-03-2025 21:42,02-04-2025 13:49,64.12,Closed
+INC-2025-0556,Weak Password Policy Violation,Salesforce CRM,Operations,Head Office,High,16-08-2025 05:19,,,Open
+INC-2025-0557,Data Leakage Alert,Workday HRMS,Legal,Cloud Instance,Critical,11-09-2025 20:42,12-09-2025 02:35,5.89,Closed
+INC-2025-0558,Backup Failure,SAP ERP,Legal,Data Center A,High,05-12-2025 04:28,05-12-2025 16:19,11.86,Closed
+INC-2025-0559,Weak Password Policy Violation,Salesforce CRM,Engineering,Cloud Instance,High,11-08-2025 22:58,12-08-2025 01:12,2.24,Closed
+INC-2025-0560,Failed Patch Deployment,Workday HRMS,HR,Head Office,Low,09-07-2025 17:03,10-07-2025 12:45,19.71,Closed
+INC-2025-0561,Data Leakage Alert,Active Directory,Finance,Data Center B,High,21-07-2025 20:20,22-07-2025 08:50,12.5,Closed
+INC-2025-0562,Weak Password Policy Violation,Active Directory,,Remote Branch,High,04-07-2025 13:09,06-07-2025 14:37,49.48,Closed
+INC-2025-0563,Data Leakage Alert,Internal Database,HR,Remote Branch,High,11-03-2025 02:08,11-03-2025 15:02,12.9,Closed
+INC-2025-0564,Unpatched Server,OFFICE 365   ,Operations,Remote Branch,Medium,18-09-2025 13:35,19-09-2025 01:14,11.66,Resolved
+INC-2025-0565,Stale User Account Active,Workday HRMS,Operations,Data Center A,High,14-09-2025 08:26,15-09-2025 05:02,20.61,Resolved
+INC-2025-0566,Weak Password Policy Violation,SAP ERP,Engineering,Remote Branch,High,20-12-2025 02:09,20-12-2025 20:05,17.94,Closed
+INC-2025-0567,Weak Password Policy Violation,SAP ERP,Sales,Data Center B,High,15-02-2025 07:30,16-02-2025 09:39,26.16,Closed
+INC-2025-0568,Weak Password Policy Violation,Salesforce CRM,Sales,Head Office,Low,25-06-2025 17:49,26-06-2025 08:20,14.52,Closed
+INC-2025-0569,Failed Patch Deployment,Workday HRMS,Engineering,Cloud Instance,Medium,27-03-2025 01:44,28-03-2025 10:57,33.22,Resolved
+INC-2025-0570,Unpatched Server,Office 365,Operations,Data Center B,Medium,27-01-2025 21:18,28-01-2025 20:48,23.5,Resolved
+INC-2025-0571,Failed Patch Deployment,Workday HRMS,Legal,Cloud Instance,Medium,09-03-2025 19:17,10-03-2025 02:24,7.13,Closed
+INC-2025-0572,Stale User Account Active,Active Directory,Marketing,Remote Branch,High,09-07-2025 05:16,09-07-2025 11:44,6.47,Resolved
+INC-2025-0573,Weak Password Policy Violation,Active Directory,Finance,Data Center A,Medium,11-09-2025 13:49,12-09-2025 15:45,25.94,Closed
+INC-2025-0574,Unauthorized Access Attempt,Salesforce CRM,Legal,Cloud Instance,High,01-03-2025 01:10,01-03-2025 16:41,15.52,Closed
+INC-2025-0575,Stale User Account Active,AWS Cloud Infrastructure,HR,Remote Branch,Critical,31-08-2025 08:09,31-08-2025 21:50,13.69,Closed
+INC-2025-0576,Stale User Account Active,Office 365,Engineering,Head Office,Medium,19-02-2025 17:40,21-02-2025 14:17,44.63,Closed
+INC-2025-0577,Backup Failure,Salesforce CRM,Engineering,Head Office,Medium,11-05-2025 20:37,13-05-2025 08:13,35.6,Closed
+INC-2025-0578,Failed Patch Deployment,Office 365,HR,Data Center A,High,10-06-2025 17:00,12-06-2025 11:46,42.77,Closed
+INC-2025-0579,Unpatched Server,Salesforce CRM,Operations,Cloud Instance,Low,09-05-2025 06:02,09-05-2025 08:20,2.31,Closed
+INC-2025-0580,Unauthorized Access Attempt,Internal Database,Sales,Head Office,High,14-02-2025 19:08,16-02-2025 05:46,34.64,Closed
+INC-2025-0581,Unpatched Server,Internal Database,Finance,Cloud Instance,Low,31-05-2025 14:42,01-06-2025 15:08,24.44,Resolved
+INC-2025-0582,Backup Failure,Workday HRMS,Marketing,Cloud Instance,Medium,12-05-2025 05:49,13-05-2025 17:50,36.03,Closed
+INC-2025-0583,Unpatched Server,Salesforce CRM,Legal,Remote Branch,Medium,05-02-2025 15:59,06-02-2025 03:57,11.97,Closed
+INC-2025-0584,Weak Password Policy Violation,Active Directory,Operations,Head Office,Medium,15-08-2025 22:16,16-08-2025 00:05,1.82,Closed
+INC-2025-0585,Stale User Account Active,Active Directory,Operations,Head Office,Low,20-01-2025 21:24,22-01-2025 02:18,28.9,Closed
+INC-2025-0586,Data Leakage Alert,AWS Cloud Infrastructure,Legal,Remote Branch,Critical,26-07-2025 23:49,27-07-2025 01:33,1.74,Resolved
+INC-2025-0587,Unauthorized Access Attempt,AWS Cloud Infrastructure,Legal,Data Center B,High,02-10-2025 11:21,02-10-2025 23:37,12.28,Closed
+INC-2025-0588,Failed Patch Deployment,Workday HRMS,Sales,Head Office,Low,24-08-2025 09:41,25-08-2025 05:05,19.4,Closed
+INC-2025-0589,Stale User Account Active,SAP ERP,Operations,Cloud Instance,Critical,07-09-2025 02:56,08-09-2025 10:50,31.9,Closed
+INC-2025-0590,Data Leakage Alert,Active Directory,Sales,Remote Branch,High,02-02-2025 17:41,03-02-2025 12:00,18.32,Closed
+INC-2025-0591,Unauthorized Access Attempt,Salesforce CRM,Finance,Cloud Instance,High,22-01-2025 12:07,23-01-2025 13:34,25.46,Closed
+INC-2025-0592,Stale User Account Active,Active Directory,Sales,Data Center B,High,30-04-2025 02:02,30-04-2025 18:08,16.11,Closed
+INC-2025-0593,Stale User Account Active,Internal Database,HR,Data Center A,Medium,08-01-2025 05:40,08-01-2025 14:28,8.81,Closed
+INC-2025-0594,Backup Failure,SAP ERP,Sales,Head Office,High,28-02-2025 15:38,28-02-2025 21:36,5.98,Resolved
+INC-2025-0595,Data Leakage Alert,Internal Database,Marketing,Cloud Instance,Medium,03-03-2025 21:36,04-03-2025 06:54,9.31,Closed
+INC-2025-0596,Unauthorized Access Attempt,Salesforce CRM,HR,Head Office,High,21-05-2025 04:48,22-05-2025 09:24,28.6,Closed
+INC-2025-0597,Unauthorized Access Attempt,Active Directory,Finance,Data Center B,Critical,12-07-2025 05:01,12-07-2025 07:02,2.02,Resolved
+INC-2025-0598,Data Leakage Alert,Salesforce CRM,Sales,Remote Branch,High,21-12-2025 04:13,21-12-2025 11:47,7.58,Closed
+INC-2025-0599,Weak Password Policy Violation,SAP ERP,,Data Center A,Critical,13-09-2025 19:05,15-09-2025 07:42,36.62,Closed
+INC-2025-0600,Unauthorized Access Attempt,Office 365,Finance,Data Center B,High,05-07-2025 17:32,07-07-2025 04:50,35.31,Closed
+INC-2025-0601,Stale User Account Active,Active Directory,Legal,Remote Branch,Medium,12-09-2025 05:10,12-09-2025 06:13,1.06,Closed
+INC-2025-0602,Backup Failure,Office 365,,Remote Branch,High,23-01-2025 03:47,23-01-2025 22:17,18.5,Closed
+INC-2025-0603,Stale User Account Active,Active Directory,Finance,Remote Branch,Low,31-10-2025 18:20,02-11-2025 03:19,32.99,Closed
+INC-2025-0604,Unpatched Server,SAP ERP,HR,Remote Branch,High,13-04-2025 12:57,14-04-2025 04:13,15.28,Closed
+INC-2025-0605,Unpatched Server,AWS Cloud Infrastructure,Sales,Remote Branch,Medium,11-07-2025 04:29,12-07-2025 04:28,23.99,Closed
+INC-2025-0606,Unauthorized Access Attempt,Office 365,Marketing,Cloud Instance,High,11-03-2025 03:54,11-03-2025 16:54,13,Closed
+INC-2025-0607,Backup Failure,Workday HRMS,HR,Data Center B,Low,29-03-2025 18:35,29-03-2025 20:45,2.17,Resolved
+INC-2025-0608,Backup Failure,AWS Cloud Infrastructure,Sales,Remote Branch,Critical,23-05-2025 00:46,25-05-2025 02:13,49.45,Closed
+INC-2025-0609,Weak Password Policy Violation,Active Directory,Sales,Head Office,Medium,02-08-2025 01:02,,,Open
+INC-2025-0610,Backup Failure,AWS Cloud Infrastructure,Operations,Head Office,High,20-08-2025 15:15,22-08-2025 00:49,33.57,Closed
+INC-2025-0611,Unpatched Server,Salesforce CRM,Engineering,Head Office,Low,09-01-2025 15:42,10-01-2025 20:51,29.16,Closed
+INC-2025-0612,Backup Failure,AWS Cloud Infrastructure,Operations,Data Center A,High,27-12-2025 12:11,27-12-2025 23:17,11.1,Resolved
+INC-2025-0613,Stale User Account Active,AWS Cloud Infrastructure,Finance,Cloud Instance,Medium,29-09-2025 01:18,29-09-2025 08:51,7.55,Closed
+INC-2025-0614,Unauthorized Access Attempt,Internal Database,Legal,Data Center B,High,21-06-2025 23:59,24-06-2025 21:44,69.75,Closed
+INC-2025-0615,Weak Password Policy Violation,AWS Cloud Infrastructure,Engineering,Head Office,High,07-07-2025 11:11,08-07-2025 16:28,29.29,Closed
+INC-2025-0616,Weak Password Policy Violation,Active Directory,Engineering,Head Office,Low,29-11-2025 15:47,30-11-2025 12:36,20.83,Resolved
+INC-2025-0617,Failed Patch Deployment,Salesforce CRM,HR,Cloud Instance,Medium,15-09-2025 21:27,15-09-2025 23:01,1.57,Closed
+INC-2025-0618,Stale User Account Active,AWS Cloud Infrastructure,Finance,Data Center B,High,14-12-2025 17:57,15-12-2025 17:13,23.28,Closed
+INC-2025-0619,Data Leakage Alert,Active Directory,Finance,Head Office,Critical,11-02-2025 12:57,14-02-2025 17:10,76.23,Closed
+INC-2025-0620,Unpatched Server,AWS Cloud Infrastructure,HR,Data Center A,High,24-09-2025 20:01,28-09-2025 07:50,83.82,Closed
+INC-2025-0621,Stale User Account Active,Internal Database,Operations,Head Office,Low,30-05-2025 06:04,31-05-2025 20:56,38.87,Closed
+INC-2025-0622,Stale User Account Active,Salesforce CRM,Sales,Cloud Instance,Medium,06-09-2025 18:42,08-09-2025 14:58,44.27,Closed
+INC-2025-0623,Unpatched Server,Salesforce CRM,Legal,Cloud Instance,Medium,27-04-2025 15:23,,,Open
+INC-2025-0624,Weak Password Policy Violation,Active Directory,Operations,Data Center A,Low,02-10-2025 09:11,,,Open
+INC-2025-0625,Unpatched Server,Active Directory,HR,Head Office,High,22-01-2025 10:36,22-01-2025 17:50,7.24,Closed
+INC-2025-0626,Unpatched Server,Salesforce CRM,Engineering,Cloud Instance,High,18-08-2025 17:10,18-08-2025 20:16,3.11,Closed
+INC-2025-0627,Unpatched Server,Salesforce CRM,Operations,Head Office,Low,07-10-2025 16:21,08-10-2025 00:45,8.41,Closed
+INC-2025-0628,Unpatched Server,Internal Database,Sales,Data Center B,High,15-08-2025 10:44,16-08-2025 02:23,15.65,Closed
+INC-2025-0629,Weak Password Policy Violation,AWS Cloud Infrastructure,Finance,Data Center A,Critical,17-08-2025 11:05,18-08-2025 09:34,22.49,Closed
+INC-2025-0630,Unpatched Server,Salesforce CRM,Legal,Head Office,High,12-02-2025 17:54,13-02-2025 20:37,26.72,Closed
+INC-2025-0631,Weak Password Policy Violation,OFFICE 365   ,Engineering,Data Center B,Medium,29-01-2025 21:23,31-01-2025 03:35,30.21,Closed
+INC-2025-0632,Failed Patch Deployment,Salesforce CRM,Engineering,Remote Branch,Low,15-10-2025 02:13,15-10-2025 16:19,14.1,Closed
+INC-2025-0633,Data Leakage Alert,Internal Database,Legal,Remote Branch,High,13-03-2025 18:38,14-03-2025 00:13,5.59,Closed
+INC-2025-0634,Backup Failure,Office 365,Finance,Remote Branch,High,15-02-2025 00:26,15-02-2025 08:05,7.66,Closed
+INC-2025-0635,Unpatched Server,Active Directory,HR,Remote Branch,Low,29-05-2025 17:31,31-05-2025 11:31,42,Closed
+INC-2025-0636,Unauthorized Access Attempt,Active Directory,Operations,Head Office,High,20-03-2025 08:19,,,Open
+INC-2025-0637,Unpatched Server,AWS Cloud Infrastructure,Engineering,Remote Branch,High,19-12-2025 20:15,21-12-2025 06:58,34.73,Closed
+INC-2025-0638,Data Leakage Alert,Office 365,Engineering,Data Center B,High,12-08-2025 08:40,16-08-2025 00:29,87.83,Closed
+INC-2025-0639,Failed Patch Deployment,Workday HRMS,Finance,Data Center A,High,25-10-2025 01:09,27-10-2025 03:42,50.55,Closed
+INC-2025-0640,Failed Patch Deployment,Internal Database,Operations,Head Office,High,29-05-2025 09:33,29-05-2025 11:28,1.92,Closed
+INC-2025-0641,Unpatched Server,Workday HRMS,Sales,Data Center B,Medium,15-06-2025 10:52,17-06-2025 01:28,38.61,Resolved
+INC-2025-0642,Failed Patch Deployment,Office 365,Sales,Data Center A,Medium,07-01-2025 04:33,08-01-2025 16:45,36.21,Closed
+INC-2025-0643,Weak Password Policy Violation,Active Directory,HR,Data Center A,Low,07-04-2025 17:39,10-04-2025 18:46,73.13,Closed
+INC-2025-0644,Data Leakage Alert,SAP ERP,Legal,Remote Branch,Critical,09-02-2025 03:52,09-02-2025 04:22,0.5,Closed
+INC-2025-0645,Weak Password Policy Violation,Office 365,Operations,Cloud Instance,Medium,30-03-2025 22:19,01-04-2025 14:45,40.44,Closed
+INC-2025-0646,Unpatched Server,Salesforce CRM,HR,Data Center A,High,08-03-2025 02:27,09-03-2025 15:13,36.78,Closed
+INC-2025-0647,Unauthorized Access Attempt,Active Directory,Finance,Head Office,Critical,04-12-2025 16:37,04-12-2025 19:39,3.04,Closed
+INC-2025-0648,Backup Failure,SAP ERP,Legal,Head Office,Critical,05-11-2025 06:37,05-11-2025 11:31,4.9,Resolved
+INC-2025-0649,Failed Patch Deployment,Office 365,Engineering,Cloud Instance,Medium,24-03-2025 16:49,24-03-2025 23:27,6.64,Closed
+INC-2025-0650,Unpatched Server,Office 365,Finance,Data Center A,Medium,25-05-2025 05:57,25-05-2025 06:27,0.5,Resolved
+INC-2025-0651,Data Leakage Alert,Internal Database,Legal,Cloud Instance,Critical,24-12-2025 18:11,27-12-2025 22:07,75.94,Closed
+INC-2025-0652,Unpatched Server,Office 365,HR,Remote Branch,Medium,27-02-2025 10:07,28-02-2025 03:43,17.6,Closed
+INC-2025-0653,Unauthorized Access Attempt,SAP ERP,Marketing,Cloud Instance,Critical,10-09-2025 03:24,11-09-2025 01:24,22.01,Closed
+INC-2025-0654,Failed Patch Deployment,AWS Cloud Infrastructure,Sales,Remote Branch,High,07-04-2025 02:57,07-04-2025 18:27,15.5,Resolved
+INC-2025-0655,Unauthorized Access Attempt,Internal Database,Operations,Remote Branch,Critical,13-08-2025 16:42,13-08-2025 19:45,3.05,Closed
+INC-2025-0656,Unauthorized Access Attempt,Active Directory,Marketing,Cloud Instance,Critical,12-04-2025 10:12,17-04-2025 02:22,112.17,Closed
+INC-2025-0657,Stale User Account Active,Workday HRMS,Engineering,Data Center B,Medium,31-10-2025 08:48,01-11-2025 09:34,24.78,Resolved
+INC-2025-0658,Weak Password Policy Violation,AWS Cloud Infrastructure,Operations,Cloud Instance,Critical,17-03-2025 14:06,18-03-2025 06:13,16.13,Closed
+INC-2025-0659,Backup Failure,SAP ERP,Marketing,Head Office,Critical,13-09-2025 21:01,,,Open
+INC-2025-0660,Unauthorized Access Attempt,Office 365,Sales,Head Office,Critical,05-12-2025 16:49,06-12-2025 07:52,15.06,Closed
+INC-2025-0661,Backup Failure,Salesforce CRM,Sales,Data Center B,Low,07-10-2025 00:48,07-10-2025 14:18,13.51,Closed
+INC-2025-0662,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Head Office,High,17-01-2025 05:35,18-01-2025 17:51,36.27,Closed
+INC-2025-0663,Data Leakage Alert,Internal Database,Engineering,Remote Branch,High,26-02-2025 18:43,27-02-2025 14:05,19.37,Closed
+INC-2025-0664,Unauthorized Access Attempt,Office 365,HR,Remote Branch,High,15-05-2025 15:37,,,Open
+INC-2025-0665,Unauthorized Access Attempt,SAP ERP,Engineering,Data Center B,High,24-01-2025 04:53,25-01-2025 20:41,39.8,Closed
+INC-2025-0666,Data Leakage Alert,SAP ERP,Operations,Cloud Instance,Critical,02-07-2025 13:22,02-07-2025 20:05,6.72,Closed
+INC-2025-0667,Backup Failure,SAP ERP,Marketing,Cloud Instance,High,28-02-2025 10:10,28-02-2025 19:38,9.47,Closed
+INC-2025-0668,Unauthorized Access Attempt,Salesforce CRM,Operations,Remote Branch,High,29-10-2025 00:20,29-10-2025 12:12,11.87,Closed
+INC-2025-0669,Failed Patch Deployment,Active Directory,Marketing,Remote Branch,Low,15-09-2025 21:21,16-09-2025 05:53,8.54,Closed
+INC-2025-0670,Backup Failure,SAP ERP,Legal,Data Center B,High,20-04-2025 09:16,25-04-2025 23:11,133.92,Closed
+INC-2025-0671,Backup Failure,Internal Database,Finance,Data Center B,Medium,18-02-2025 18:21,19-02-2025 14:24,20.06,Closed
+INC-2025-0672,Backup Failure,Internal Database,Finance,Cloud Instance,Medium,16-09-2025 09:27,16-09-2025 18:28,9.02,Closed
+INC-2025-0673,Weak Password Policy Violation,Workday HRMS,Marketing,Data Center A,Medium,10-01-2025 20:45,11-01-2025 01:42,4.95,Closed
+INC-2025-0674,Stale User Account Active,Salesforce CRM,Operations,Data Center B,Medium,11-11-2025 13:59,12-11-2025 13:38,23.65,Closed
+INC-2025-0675,Stale User Account Active,Internal Database,HR,Cloud Instance,Medium,11-08-2025 13:20,13-08-2025 23:26,58.1,Resolved
+INC-2025-0676,Unpatched Server,Internal Database,Engineering,Cloud Instance,High,18-12-2025 19:15,18-12-2025 22:08,2.89,Closed
+INC-2025-0677,Weak Password Policy Violation,AWS Cloud Infrastructure,Operations,Remote Branch,Critical,05-08-2025 20:57,06-08-2025 01:07,4.17,Closed
+INC-2025-0678,Unpatched Server,Office 365,Marketing,Head Office,Medium,06-09-2025 00:03,06-09-2025 02:09,2.1,Resolved
+INC-2025-0679,Stale User Account Active,Salesforce CRM,Operations,Head Office,Medium,23-07-2025 23:53,24-07-2025 02:44,2.85,Closed
+INC-2025-0680,Backup Failure,Office 365,Legal,Data Center B,Medium,09-05-2025 15:56,10-05-2025 13:54,21.98,Closed
+INC-2025-0681,Backup Failure,AWS Cloud Infrastructure,Marketing,Data Center A,Critical,05-08-2025 06:09,05-08-2025 11:55,5.78,Closed
+INC-2025-0682,Weak Password Policy Violation,AWS Cloud Infrastructure,Finance,Cloud Instance,Critical,25-12-2025 03:20,25-12-2025 18:47,15.46,Closed
+INC-2025-0683,Data Leakage Alert,Salesforce CRM,HR,Cloud Instance,High,07-06-2025 00:41,,,Open
+INC-2025-0684,Backup Failure,Internal Database,Finance,Data Center A,Medium,10-05-2025 17:24,13-05-2025 21:45,76.36,Closed
+INC-2025-0685,Backup Failure,Active Directory,Legal,Remote Branch,Low,18-07-2025 00:58,,,Open
+INC-2025-0686,Unpatched Server,Workday HRMS,Legal,Cloud Instance,Low,18-04-2025 05:58,18-04-2025 15:07,9.16,Closed
+INC-2025-0687,Unauthorized Access Attempt,Workday HRMS,Engineering,Remote Branch,High,30-08-2025 23:26,31-08-2025 09:08,9.71,Resolved
+INC-2025-0688,Failed Patch Deployment,Internal Database,HR,Data Center B,Medium,03-02-2025 11:26,05-02-2025 03:43,40.29,Closed
+INC-2025-0689,Stale User Account Active,Internal Database,Finance,Data Center A,Medium,19-11-2025 14:50,19-11-2025 15:20,0.5,Closed
+INC-2025-0690,Unpatched Server,Active Directory,Finance,Data Center B,Low,29-11-2025 04:54,29-11-2025 17:34,12.68,Closed
+INC-2025-0691,Unpatched Server,Salesforce CRM,HR,Data Center B,Medium,17-06-2025 09:12,17-06-2025 20:12,11,Closed
+INC-2025-0692,Unauthorized Access Attempt,Active Directory,Sales,Head Office,Medium,13-10-2025 20:39,16-10-2025 05:36,56.96,Closed
+INC-2025-0693,Data Leakage Alert,SAP ERP   ,HR,Data Center B,Critical,08-08-2025 19:16,11-08-2025 23:22,76.1,Closed
+INC-2025-0694,Backup Failure,AWS Cloud Infrastructure,Sales,Remote Branch,Medium,11-12-2025 15:07,11-12-2025 20:34,5.45,Closed
+INC-2025-0695,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Data Center A,High,09-08-2025 06:38,11-08-2025 00:20,41.71,Closed
+INC-2025-0696,Unauthorized Access Attempt,Active Directory,Legal,Cloud Instance,High,15-05-2025 07:39,15-05-2025 14:30,6.85,Closed
+INC-2025-0697,Backup Failure,Active Directory,Operations,Cloud Instance,Medium,21-12-2025 12:43,22-12-2025 00:19,11.61,Closed
+INC-2025-0698,Unauthorized Access Attempt,SAP ERP,Sales,Cloud Instance,High,01-05-2025 15:58,02-05-2025 14:20,22.38,Closed
+INC-2025-0699,Unauthorized Access Attempt,SAP ERP,Legal,Cloud Instance,Critical,16-09-2025 19:24,17-09-2025 07:27,12.05,Closed
+INC-2025-0700,Failed Patch Deployment,Active Directory,Sales,Data Center A,High,15-09-2025 15:59,16-09-2025 07:08,15.15,Closed
+INC-2025-0701,Failed Patch Deployment,SAP ERP,Engineering,Head Office,Critical,07-03-2025 15:55,,,Open
+INC-2025-0702,Backup Failure,Office 365,Engineering,Cloud Instance,Low,22-09-2025 10:27,22-09-2025 19:33,9.1,Resolved
+INC-2025-0703,Stale User Account Active,Internal Database,Legal,Remote Branch,Medium,28-01-2025 06:09,28-01-2025 11:00,4.85,Closed
+INC-2025-0704,Unauthorized Access Attempt,AWS Cloud Infrastructure,Finance,Remote Branch,High,02-07-2025 22:35,03-07-2025 14:53,16.3,Closed
+INC-2025-0705,Backup Failure,Active Directory,Finance,Cloud Instance,Low,03-04-2025 05:47,03-04-2025 13:26,7.65,Closed
+INC-2025-0706,Backup Failure,Office 365,Finance,Data Center B,Medium,03-04-2025 13:58,05-04-2025 01:03,35.09,Closed
+INC-2025-0707,Unauthorized Access Attempt,Internal Database,Marketing,Remote Branch,High,11-07-2025 18:59,,,Open
+INC-2025-0708,Stale User Account Active,Internal Database,Legal,Remote Branch,Low,21-08-2025 20:17,21-08-2025 20:47,0.5,Closed
+INC-2025-0709,Stale User Account Active,Internal Database,Engineering,Data Center B,Medium,08-03-2025 06:55,09-03-2025 07:40,24.76,Closed
+INC-2025-0710,Unauthorized Access Attempt,AWS Cloud Infrastructure,Sales,Remote Branch,High,11-05-2025 05:15,,,Open
+INC-2025-0711,Backup Failure,AWS Cloud Infrastructure,HR,Remote Branch,Critical,26-05-2025 20:48,,,Open
+INC-2025-0712,Failed Patch Deployment,Workday HRMS,Marketing,Data Center B,High,09-03-2025 11:42,09-03-2025 22:41,10.99,Closed
+INC-2025-0713,Weak Password Policy Violation,Office 365,Engineering,Remote Branch,Medium,16-02-2025 13:51,16-02-2025 18:48,4.95,Closed
+INC-2025-0714,Unpatched Server,Internal Database,Operations,Data Center A,Medium,11-09-2025 16:40,11-09-2025 18:46,2.1,Closed
+INC-2025-0715,Unpatched Server,Active Directory,Engineering,Cloud Instance,High,08-05-2025 16:27,08-05-2025 17:37,1.17,Closed
+INC-2025-0716,Unauthorized Access Attempt,AWS CLOUD INFRASTRUCTURE   ,Operations,Remote Branch,High,05-12-2025 23:36,06-12-2025 10:08,10.54,Resolved
+INC-2025-0717,Data Leakage Alert,Internal Database,Marketing,Data Center A,Critical,04-04-2025 12:02,06-04-2025 14:17,50.25,Closed
+INC-2025-0718,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,24-06-2025 05:13,25-06-2025 14:12,32.99,Closed
+INC-2025-0719,Unauthorized Access Attempt,SAP ERP,Sales,Remote Branch,High,01-03-2025 00:10,01-03-2025 14:58,14.8,Closed
+INC-2025-0720,Failed Patch Deployment,AWS Cloud Infrastructure,Marketing,Data Center B,Critical,12-11-2025 11:44,13-11-2025 15:51,28.13,Closed
+INC-2025-0721,Unauthorized Access Attempt,Active Directory,Finance,Head Office,Critical,23-12-2025 06:54,23-12-2025 22:39,15.75,Closed
+INC-2025-0722,Weak Password Policy Violation,Workday HRMS,Legal,Data Center A,High,14-02-2025 09:49,15-02-2025 01:14,15.42,Closed
+INC-2025-0723,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Remote Branch,High,11-01-2025 14:37,11-01-2025 22:59,8.38,Closed
+INC-2025-0724,Backup Failure,Internal Database,Finance,Remote Branch,Low,01-08-2025 15:47,02-08-2025 23:18,31.52,Closed
+INC-2025-0725,Stale User Account Active,Office 365,Sales,Data Center B,Medium,14-12-2025 15:14,15-12-2025 09:15,18.03,Closed
+INC-2025-0726,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Head Office,Critical,11-09-2025 19:41,13-09-2025 00:23,28.7,Closed
+INC-2025-0727,Unpatched Server,AWS Cloud Infrastructure,Engineering,Data Center B,High,23-04-2025 18:58,26-04-2025 08:06,61.14,Closed
+INC-2025-0728,Stale User Account Active,Internal Database,Engineering,Remote Branch,Medium,02-08-2025 21:41,04-08-2025 11:50,38.15,Closed
+INC-2025-0729,Stale User Account Active,Internal Database,Engineering,Head Office,Medium,08-12-2025 15:08,08-12-2025 19:12,4.08,Closed
+INC-2025-0730,Unpatched Server,Salesforce CRM,Operations,Data Center A,Medium,13-10-2025 01:01,13-10-2025 08:16,7.25,Closed
+INC-2025-0731,Backup Failure,SAP ERP,Sales,Head Office,Critical,22-06-2025 13:07,22-06-2025 16:12,3.09,Closed
+INC-2025-0732,Unauthorized Access Attempt,Workday HRMS,Engineering,Data Center B,High,17-05-2025 04:54,17-05-2025 22:17,17.39,Closed
+INC-2025-0733,Data Leakage Alert,Workday HRMS,Operations,Head Office,High,24-02-2025 19:39,27-02-2025 18:19,70.67,Resolved
+INC-2025-0734,Backup Failure,SAP ERP,Marketing,Data Center A,High,05-07-2025 05:46,05-07-2025 19:44,13.98,Closed
+INC-2025-0735,Failed Patch Deployment,Salesforce CRM,,Data Center A,Medium,04-03-2025 06:28,,,Open
+INC-2025-0736,Failed Patch Deployment,Salesforce CRM,Operations,Data Center B,Medium,29-03-2025 02:17,30-03-2025 12:01,33.74,Closed
+INC-2025-0737,Data Leakage Alert,Office 365,Legal,Data Center A,Medium,12-03-2025 13:26,14-03-2025 20:14,54.8,Resolved
+INC-2025-0738,Unpatched Server,AWS Cloud Infrastructure,Finance,Head Office,High,22-09-2025 02:05,22-09-2025 14:24,12.33,Closed
+INC-2025-0739,Stale User Account Active,Internal Database,Finance,Data Center A,Medium,22-10-2025 01:40,,,Open
+INC-2025-0740,Stale User Account Active,AWS Cloud Infrastructure,Operations,Data Center B,High,05-06-2025 23:47,06-06-2025 09:54,10.12,Closed
+INC-2025-0741,Data Leakage Alert,Internal Database,HR,Remote Branch,High,26-11-2025 06:56,27-11-2025 20:12,37.27,Closed
+INC-2025-0742,Data Leakage Alert,Internal Database,Legal,Data Center A,High,04-06-2025 02:02,04-06-2025 13:53,11.86,Closed
+INC-2025-0743,Unpatched Server,Salesforce CRM,,Head Office,High,19-09-2025 17:19,21-09-2025 03:16,33.96,Closed
+INC-2025-0744,Unpatched Server,Salesforce CRM,Sales,Cloud Instance,Medium,05-08-2025 16:07,07-08-2025 12:20,44.22,Closed
+INC-2025-0745,Unauthorized Access Attempt,Internal Database,Legal,Remote Branch,Critical,02-06-2025 18:47,03-06-2025 04:43,9.94,Closed
+INC-2025-0746,Stale User Account Active,Internal Database,Marketing,Data Center B,Low,01-11-2025 07:22,02-11-2025 09:45,26.39,Closed
+INC-2025-0747,Stale User Account Active,Office 365,Operations,Data Center A,Medium,23-02-2025 10:33,25-02-2025 04:05,41.54,Closed
+INC-2025-0748,Unauthorized Access Attempt,AWS Cloud Infrastructure,Legal,Head Office,Critical,01-02-2025 13:56,01-02-2025 19:44,5.8,Closed
+INC-2025-0749,Backup Failure,Office 365,Sales,Remote Branch,Medium,16-05-2025 18:31,22-05-2025 10:19,135.8,Closed
+INC-2025-0750,Unpatched Server,Workday HRMS,Operations,Data Center A,Medium,16-09-2025 04:31,16-09-2025 07:50,3.33,Closed
+INC-2025-0751,Data Leakage Alert,AWS Cloud Infrastructure,HR,Head Office,High,22-03-2025 17:23,22-03-2025 20:24,3.03,Resolved
+INC-2025-0752,Weak Password Policy Violation,SAP ERP,Engineering,Data Center A,Critical,02-03-2025 11:19,,,Open
+INC-2025-0753,Weak Password Policy Violation,Workday HRMS,,Remote Branch,Medium,25-01-2025 09:56,25-01-2025 14:47,4.85,Closed
+INC-2025-0754,Unauthorized Access Attempt,Workday HRMS,Finance,Remote Branch,High,04-09-2025 18:19,07-09-2025 01:38,55.33,Closed
+INC-2025-0755,Backup Failure,Active Directory,Sales,Data Center A,High,16-09-2025 20:29,17-09-2025 22:53,26.41,Resolved
+INC-2025-0756,Weak Password Policy Violation,Internal Database,Sales,Remote Branch,Low,18-07-2025 07:57,19-07-2025 02:38,18.69,Closed
+INC-2025-0757,Backup Failure,SAP ERP,Marketing,Data Center A,High,13-01-2025 18:40,15-01-2025 00:09,29.49,Resolved
+INC-2025-0758,Weak Password Policy Violation,Office 365,HR,Data Center B,Low,28-01-2025 18:33,29-01-2025 10:03,15.5,Closed
+INC-2025-0759,Failed Patch Deployment,SAP ERP,HR,Data Center A,High,06-05-2025 22:53,07-05-2025 12:59,14.1,Resolved
+INC-2025-0760,Backup Failure,AWS Cloud Infrastructure,Finance,Head Office,Critical,24-06-2025 13:11,26-06-2025 12:18,47.13,Closed
+INC-2025-0761,Unpatched Server,Office 365,Finance,Cloud Instance,Low,15-03-2025 05:16,15-03-2025 09:17,4.02,Resolved
+INC-2025-0762,Unauthorized Access Attempt,Active Directory,Engineering,Head Office,Critical,02-06-2025 12:06,03-06-2025 00:52,12.78,Closed
+INC-2025-0763,Unpatched Server,SAP ERP,Finance,Data Center A,Critical,02-11-2025 18:15,04-11-2025 03:45,33.5,Closed
+INC-2025-0764,Data Leakage Alert,Office 365,Operations,Head Office,Critical,05-09-2025 00:26,07-09-2025 11:14,58.81,Closed
+INC-2025-0765,Backup Failure,Active Directory,Finance,Data Center B,Low,30-11-2025 04:19,30-11-2025 18:29,14.17,Closed
+INC-2025-0766,Weak Password Policy Violation,Salesforce CRM,HR,Data Center A,Medium,06-05-2025 17:27,,,Open
+INC-2025-0767,Failed Patch Deployment,Office 365,Legal,Data Center A,Medium,01-01-2025 01:59,01-01-2025 09:38,7.66,Resolved
+INC-2025-0768,Unpatched Server,Internal Database,Legal,Data Center B,High,19-09-2025 09:02,20-09-2025 03:21,18.33,Closed
+INC-2025-0769,Stale User Account Active,Active Directory,Legal,Data Center B,Medium,24-05-2025 13:13,27-05-2025 16:58,75.75,Closed
+INC-2025-0770,Stale User Account Active,Workday HRMS,Engineering,Remote Branch,Medium,20-05-2025 07:42,,,Open
+INC-2025-0771,Unpatched Server,Internal Database,Finance,Head Office,Medium,08-11-2025 15:00,09-11-2025 17:48,26.81,Resolved
+INC-2025-0772,Weak Password Policy Violation,AWS Cloud Infrastructure,Legal,Head Office,High,29-11-2025 20:04,02-12-2025 01:36,53.54,Closed
+INC-2025-0773,Backup Failure,AWS Cloud Infrastructure,Legal,Data Center B,Medium,03-07-2025 12:11,05-07-2025 04:16,40.09,Resolved
+INC-2025-0774,Unauthorized Access Attempt,AWS Cloud Infrastructure,HR,Data Center A,Critical,11-01-2025 08:43,11-01-2025 19:20,10.63,Resolved
+INC-2025-0775,Unpatched Server,Active Directory,,Remote Branch,Medium,05-07-2025 01:17,06-07-2025 06:30,29.22,Closed
+INC-2025-0776,Unauthorized Access Attempt,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,19-10-2025 16:31,19-10-2025 21:41,5.17,Closed
+INC-2025-0777,Weak Password Policy Violation,SAP ERP,HR,Data Center A,High,03-02-2025 04:16,05-02-2025 02:41,46.42,Resolved
+INC-2025-0778,Unauthorized Access Attempt,Internal Database,Legal,Data Center B,Medium,11-11-2025 08:43,11-11-2025 23:14,14.52,Closed
+INC-2025-0779,Failed Patch Deployment,Workday HRMS,Finance,Remote Branch,Medium,28-07-2025 08:07,28-07-2025 23:11,15.08,Closed
+INC-2025-0780,Failed Patch Deployment,SAP ERP,HR,Remote Branch,Critical,30-09-2025 14:20,30-09-2025 19:31,5.19,Closed
+INC-2025-0781,Stale User Account Active,Active Directory,Marketing,Remote Branch,Medium,08-02-2025 07:12,08-02-2025 16:07,8.93,Closed
+INC-2025-0782,Weak Password Policy Violation,SAP ERP,Legal,Cloud Instance,High,09-05-2025 07:06,12-05-2025 11:39,76.55,Closed
+INC-2025-0783,Backup Failure,SAP ERP,HR,Data Center B,Critical,14-11-2025 14:48,15-11-2025 04:59,14.19,Closed
+INC-2025-0784,Backup Failure,Salesforce CRM,Operations,Head Office,Medium,07-03-2025 01:58,07-03-2025 03:19,1.35,Resolved
+INC-2025-0785,Unauthorized Access Attempt,Office 365,Finance,Cloud Instance,High,15-07-2025 12:06,16-07-2025 00:48,12.71,Closed
+INC-2025-0786,Data Leakage Alert,AWS Cloud Infrastructure,Operations,Remote Branch,High,14-11-2025 19:06,17-11-2025 13:40,66.57,Closed
+INC-2025-0787,Unauthorized Access Attempt,SAP ERP,HR,Head Office,Medium,01-11-2025 22:04,03-11-2025 18:10,44.1,Closed
+INC-2025-0788,Data Leakage Alert,AWS Cloud Infrastructure,Engineering,Data Center B,Critical,16-08-2025 05:15,16-08-2025 06:19,1.08,Closed
+INC-2025-0789,Failed Patch Deployment,Workday HRMS,Marketing,Cloud Instance,Medium,26-10-2025 17:49,27-10-2025 09:02,15.22,Closed
+INC-2025-0790,Stale User Account Active,Office 365,Sales,Data Center A,High,30-01-2025 07:32,31-01-2025 03:12,19.67,Resolved
+INC-2025-0791,Backup Failure,Active Directory,Marketing,Head Office,Medium,24-06-2025 06:42,25-06-2025 10:57,28.25,Closed
+INC-2025-0792,Weak Password Policy Violation,Salesforce CRM,Sales,Cloud Instance,Low,03-08-2025 10:10,05-08-2025 12:17,50.12,Closed
+INC-2025-0793,Stale User Account Active,Active Directory,Marketing,Data Center A,Low,27-08-2025 19:13,29-08-2025 03:03,31.84,Closed
+INC-2025-0794,Unpatched Server,AWS Cloud Infrastructure,HR,Head Office,Critical,05-07-2025 00:04,05-07-2025 19:29,19.42,Closed
+INC-2025-0795,Unauthorized Access Attempt,Salesforce CRM,Legal,Head Office,High,12-04-2025 06:18,14-04-2025 10:17,51.99,Closed
+INC-2025-0796,Unauthorized Access Attempt,Active Directory,HR,Data Center A,High,15-05-2025 03:01,15-05-2025 06:33,3.54,Resolved
+INC-2025-0797,Data Leakage Alert,Salesforce CRM,HR,Data Center A,High,09-07-2025 11:42,10-07-2025 05:39,17.96,Closed
+INC-2025-0798,Unauthorized Access Attempt,SAP ERP,Marketing,Data Center A,Critical,08-03-2025 06:12,09-03-2025 10:39,28.45,Closed
+INC-2025-0799,Weak Password Policy Violation,Workday HRMS,Finance,Data Center B,High,07-04-2025 17:18,08-04-2025 02:49,9.53,Resolved
+INC-2025-0800,Weak Password Policy Violation,Office 365,Legal,Remote Branch,Medium,18-04-2025 23:05,20-04-2025 12:39,37.57,Resolved
+INC-2025-0801,Weak Password Policy Violation,Workday HRMS,Marketing,Cloud Instance,Medium,13-09-2025 16:29,14-09-2025 22:24,29.92,Closed
+INC-2025-0802,Weak Password Policy Violation,Salesforce CRM,Operations,Remote Branch,Medium,23-11-2025 18:41,24-11-2025 00:38,5.95,Closed
+INC-2025-0803,Data Leakage Alert,AWS Cloud Infrastructure,Engineering,Data Center B,Critical,22-03-2025 11:16,22-03-2025 14:43,3.46,Closed
+INC-2025-0804,Data Leakage Alert,SAP ERP,Sales,Data Center B,Critical,15-11-2025 10:27,16-11-2025 00:03,13.6,Closed
+INC-2025-0805,Data Leakage Alert,Active Directory,Finance,Data Center A,High,16-05-2025 20:04,16-05-2025 22:07,2.06,Closed
+INC-2025-0806,Unpatched Server,Salesforce CRM,Legal,Head Office,High,02-03-2025 02:23,02-03-2025 07:44,5.36,Closed
+INC-2025-0807,Stale User Account Active,Workday HRMS,Legal,Cloud Instance,Low,08-04-2025 22:38,,,Open
+INC-2025-0808,Backup Failure,SAP ERP,Engineering,Cloud Instance,Medium,25-05-2025 11:50,,,Open
+INC-2025-0809,Stale User Account Active,AWS Cloud Infrastructure,Finance,Data Center B,High,18-03-2025 12:14,19-03-2025 21:25,33.19,Closed
+INC-2025-0810,Stale User Account Active,AWS Cloud Infrastructure,Legal,Remote Branch,Medium,24-06-2025 02:20,24-06-2025 15:46,13.44,Resolved
+INC-2025-0811,Unauthorized Access Attempt,Office 365,Legal,Cloud Instance,Critical,13-03-2025 18:55,16-03-2025 15:49,68.9,Closed
+INC-2025-0812,Data Leakage Alert,Active Directory,,Remote Branch,Critical,18-12-2025 12:48,19-12-2025 07:18,18.51,Resolved
+INC-2025-0813,Failed Patch Deployment,Active Directory,HR,Data Center B,Low,19-11-2025 19:58,21-11-2025 20:22,48.41,Closed
+INC-2025-0814,Unpatched Server,AWS Cloud Infrastructure,Sales,Remote Branch,High,25-02-2025 10:36,,,Open
+INC-2025-0815,Unpatched Server,Office 365,Marketing,Head Office,Low,19-12-2025 19:31,20-12-2025 00:50,5.33,Closed
+INC-2025-0816,Weak Password Policy Violation,Internal Database,Engineering,Head Office,Low,21-08-2025 01:23,21-08-2025 05:54,4.52,Closed
+INC-2025-0817,Weak Password Policy Violation,Active Directory,Finance,Remote Branch,Medium,02-09-2025 23:04,05-09-2025 07:12,56.14,Closed
+INC-2025-0818,Stale User Account Active,Internal Database,Legal,Remote Branch,Medium,23-03-2025 19:36,24-03-2025 16:51,21.25,Resolved
+INC-2025-0819,Data Leakage Alert,Active Directory,Finance,Head Office,High,24-07-2025 19:51,25-07-2025 05:25,9.57,Closed
+INC-2025-0820,Unauthorized Access Attempt,Internal Database,Finance,Cloud Instance,Critical,27-11-2025 14:22,28-11-2025 20:13,29.85,Closed
+INC-2025-0821,Unpatched Server,AWS Cloud Infrastructure,HR,Data Center A,Critical,13-11-2025 23:27,16-11-2025 09:27,58.01,Closed
+INC-2025-0822,Backup Failure,Active Directory,Finance,Data Center A,Medium,21-05-2025 20:34,24-05-2025 08:05,59.53,Closed
+INC-2025-0823,Backup Failure,AWS Cloud Infrastructure,Operations,Data Center B,High,04-03-2025 11:04,05-03-2025 03:55,16.85,Resolved
+INC-2025-0824,Unauthorized Access Attempt,Office 365,HR,Remote Branch,Critical,14-01-2025 02:40,15-01-2025 11:55,33.25,Closed
+INC-2025-0825,Unauthorized Access Attempt,SAP ERP,Operations,Cloud Instance,High,28-02-2025 22:58,02-03-2025 01:35,26.63,Closed
+INC-2025-0826,Stale User Account Active,Active Directory,Marketing,Remote Branch,Low,13-03-2025 15:52,13-03-2025 20:05,4.22,Closed
+INC-2025-0827,Stale User Account Active,Office 365,Finance,Remote Branch,High,28-03-2025 02:42,29-03-2025 05:51,27.15,Resolved
+INC-2025-0828,Weak Password Policy Violation,Internal Database,Finance,Data Center A,Medium,15-08-2025 22:03,17-08-2025 14:06,40.05,Resolved
+INC-2025-0829,Failed Patch Deployment,Internal Database,Operations,Remote Branch,Medium,27-01-2025 19:00,28-01-2025 06:22,11.37,Closed
+INC-2025-0830,Unauthorized Access Attempt,SAP ERP,HR,Remote Branch,Critical,15-01-2025 00:21,16-01-2025 03:41,27.34,Resolved
+INC-2025-0831,Stale User Account Active,Workday HRMS,Legal,Data Center A,Medium,27-03-2025 01:26,28-03-2025 18:00,40.58,Closed
+INC-2025-0832,Data Leakage Alert,AWS Cloud Infrastructure,Sales,Head Office,High,29-04-2025 06:06,29-04-2025 10:40,4.58,Closed
+INC-2025-0833,Unauthorized Access Attempt,Active Directory,Operations,Cloud Instance,High,29-11-2025 19:23,01-12-2025 23:23,52,Closed
+INC-2025-0834,Weak Password Policy Violation,Internal Database,Finance,Data Center B,Medium,29-03-2025 08:06,02-04-2025 07:45,95.65,Closed
+INC-2025-0835,Failed Patch Deployment,ACTIVE DIRECTORY   ,Marketing,Data Center A,Medium,22-11-2025 22:20,,,Open
+INC-2025-0836,Data Leakage Alert,AWS Cloud Infrastructure,,Data Center B,Critical,24-11-2025 23:14,26-11-2025 04:30,29.27,Closed
+INC-2025-0837,Unpatched Server,Salesforce CRM,Finance,Remote Branch,Medium,05-05-2025 19:05,06-05-2025 06:20,11.26,Closed
+INC-2025-0838,Stale User Account Active,Active Directory,Finance,Data Center B,Medium,16-08-2025 23:56,17-08-2025 07:45,7.82,Closed
+INC-2025-0839,Backup Failure,Internal Database,Operations,Cloud Instance,Medium,13-01-2025 07:54,13-01-2025 17:58,10.07,Closed
+INC-2025-0840,Stale User Account Active,Workday HRMS,HR,Data Center A,High,08-11-2025 12:33,09-11-2025 02:34,14.02,Closed
+INC-2025-0841,Stale User Account Active,SAP ERP,HR,Data Center A,High,15-04-2025 04:05,15-04-2025 23:11,19.1,Closed
+INC-2025-0842,Data Leakage Alert,Internal Database,Operations,Cloud Instance,Critical,26-03-2025 23:12,27-03-2025 03:51,4.66,Closed
+INC-2025-0843,Failed Patch Deployment,Active Directory,Marketing,Remote Branch,Medium,10-02-2025 11:25,11-02-2025 02:41,15.27,Closed
+INC-2025-0844,Backup Failure,Workday HRMS,HR,Remote Branch,Low,11-01-2025 12:27,12-01-2025 22:35,34.14,Resolved
+INC-2025-0845,Failed Patch Deployment,Active Directory,Marketing,Remote Branch,Medium,26-08-2025 09:29,27-08-2025 05:18,19.82,Closed
+INC-2025-0846,Unpatched Server,Active Directory,HR,Head Office,Low,07-01-2025 16:46,08-01-2025 08:59,16.23,Closed
+INC-2025-0847,Data Leakage Alert,AWS Cloud Infrastructure,Engineering,Cloud Instance,Medium,25-11-2025 18:04,25-11-2025 19:01,0.95,Closed
+INC-2025-0848,Data Leakage Alert,Workday HRMS,HR,Cloud Instance,High,28-06-2025 16:45,29-06-2025 20:44,27.99,Closed
+INC-2025-0849,Unpatched Server,Active Directory,Marketing,Remote Branch,Medium,18-01-2025 11:40,18-01-2025 12:21,0.69,Closed
+INC-2025-0850,Failed Patch Deployment,Active Directory,Marketing,Data Center A,Medium,05-11-2025 18:42,05-11-2025 19:12,0.5,Resolved
+INC-2025-0851,Weak Password Policy Violation,Internal Database,Operations,Head Office,Medium,23-09-2025 06:56,25-09-2025 01:25,42.49,Closed
+INC-2025-0852,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Cloud Instance,High,30-07-2025 23:55,01-08-2025 00:11,24.27,Closed
+INC-2025-0853,Stale User Account Active,Active Directory,,Remote Branch,Low,24-12-2025 09:00,,,Open
+INC-2025-0854,Weak Password Policy Violation,AWS Cloud Infrastructure,Marketing,Remote Branch,Critical,02-12-2025 09:46,02-12-2025 14:25,4.66,Closed
+INC-2025-0855,Data Leakage Alert,SAP ERP,Sales,Data Center B,High,19-04-2025 05:12,19-04-2025 10:02,4.84,Closed
+INC-2025-0856,Stale User Account Active,AWS Cloud Infrastructure,Operations,Data Center B,Critical,25-02-2025 20:10,25-02-2025 22:19,2.15,Closed
+INC-2025-0857,Data Leakage Alert,AWS Cloud Infrastructure,HR,Head Office,High,05-01-2025 01:17,05-01-2025 01:47,0.5,Resolved
+INC-2025-0858,Unauthorized Access Attempt,Workday HRMS,Sales,Remote Branch,High,05-11-2025 16:48,06-11-2025 08:46,15.97,Closed
+INC-2025-0859,Failed Patch Deployment,Salesforce CRM,Marketing,Data Center A,Medium,04-07-2025 21:25,04-07-2025 22:49,1.41,Closed
+INC-2025-0860,Stale User Account Active,Workday HRMS,Operations,Remote Branch,Low,13-03-2025 00:38,13-03-2025 18:47,18.15,Closed
+INC-2025-0861,Stale User Account Active,OFFICE 365   ,Operations,Remote Branch,Low,21-09-2025 13:42,25-09-2025 20:27,102.76,Closed
+INC-2025-0862,Unauthorized Access Attempt,Workday HRMS,Engineering,Cloud Instance,High,14-12-2025 14:14,15-12-2025 02:30,12.27,Closed
+INC-2025-0863,Backup Failure,Internal Database,Operations,Head Office,Medium,17-07-2025 09:38,17-07-2025 13:20,3.71,Closed
+INC-2025-0864,Unpatched Server,SAP ERP,Sales,Remote Branch,High,14-02-2025 09:53,15-02-2025 04:59,19.1,Closed
+INC-2025-0865,Stale User Account Active,AWS Cloud Infrastructure,Finance,Data Center B,High,04-05-2025 07:13,07-05-2025 04:29,69.27,Closed
+INC-2025-0866,Failed Patch Deployment,Active Directory,Finance,Remote Branch,Low,24-05-2025 07:46,24-05-2025 23:17,15.52,Closed
+INC-2025-0867,Stale User Account Active,Internal Database,Sales,Remote Branch,Medium,16-02-2025 22:21,19-02-2025 14:47,64.44,Resolved
+INC-2025-0868,Stale User Account Active,Internal Database,Operations,Remote Branch,Low,01-12-2025 20:50,03-12-2025 19:21,46.53,Closed
+INC-2025-0869,Unauthorized Access Attempt,SAP ERP,Finance,Cloud Instance,Critical,31-10-2025 06:47,01-11-2025 03:11,20.41,Resolved
+INC-2025-0870,Failed Patch Deployment,SAP ERP,Marketing,Head Office,Critical,30-10-2025 17:12,03-11-2025 14:54,93.71,Resolved
+INC-2025-0871,Weak Password Policy Violation,Active Directory,Legal,Data Center B,Medium,30-10-2025 07:06,31-10-2025 01:39,18.55,Closed
+INC-2025-0872,Data Leakage Alert,Active Directory,Legal,Remote Branch,High,17-03-2025 19:18,18-03-2025 21:34,26.27,Closed
+INC-2025-0873,Stale User Account Active,Office 365,Engineering,Head Office,Medium,21-05-2025 22:36,23-05-2025 16:56,42.34,Closed
+INC-2025-0874,Unpatched Server,Salesforce CRM,Legal,Data Center A,High,26-04-2025 22:47,28-04-2025 22:55,48.14,Closed
+INC-2025-0875,Backup Failure,Internal Database,Legal,Data Center A,Low,12-01-2025 17:25,13-01-2025 20:36,27.19,Closed
+INC-2025-0876,Failed Patch Deployment,Internal Database,Sales,Cloud Instance,High,23-12-2025 06:44,23-12-2025 18:44,12.01,Resolved
+INC-2025-0877,Backup Failure,SAP ERP,Legal,Cloud Instance,High,23-08-2025 20:10,24-08-2025 10:10,14,Closed
+INC-2025-0878,Unpatched Server,Internal Database,Legal,Head Office,Low,05-07-2025 23:54,07-07-2025 03:07,27.22,Closed
+INC-2025-0879,Backup Failure,Internal Database,Operations,Data Center A,High,29-01-2025 03:22,,,Open
+INC-2025-0880,Weak Password Policy Violation,Salesforce CRM,Marketing,Remote Branch,Medium,18-03-2025 20:46,18-03-2025 21:35,0.83,Closed
+INC-2025-0881,Stale User Account Active,Internal Database,HR,Remote Branch,Low,21-12-2025 21:42,22-12-2025 12:39,14.95,Closed
+INC-2025-0882,Unauthorized Access Attempt,Salesforce CRM,,Head Office,High,01-03-2025 02:07,02-03-2025 04:38,26.52,Closed
+INC-2025-0883,Failed Patch Deployment,AWS Cloud Infrastructure,Sales,Head Office,High,31-10-2025 05:24,01-11-2025 06:13,24.83,Closed
+INC-2025-0884,Backup Failure,Internal Database,Finance,Data Center B,Low,05-04-2025 12:52,06-04-2025 00:52,12.01,Closed
+INC-2025-0885,Backup Failure,Office 365,Finance,Data Center B,Medium,03-10-2025 22:52,04-10-2025 02:02,3.18,Resolved
+INC-2025-0886,Weak Password Policy Violation,Workday HRMS,HR,Data Center A,High,03-01-2025 17:28,03-01-2025 20:37,3.15,Resolved
+INC-2025-0887,Backup Failure,Salesforce CRM,Sales,Head Office,High,13-02-2025 03:32,16-02-2025 12:53,81.35,Closed
+INC-2025-0888,Unauthorized Access Attempt,Salesforce CRM,HR,Data Center B,High,31-05-2025 21:34,01-06-2025 18:13,20.65,Closed
+INC-2025-0889,Weak Password Policy Violation,Office 365,Engineering,Data Center B,High,18-04-2025 22:06,18-04-2025 23:12,1.1,Closed
+INC-2025-0890,Weak Password Policy Violation,Active Directory,HR,Data Center B,Medium,21-04-2025 18:22,23-04-2025 01:42,31.34,Closed
+INC-2025-0891,Data Leakage Alert,Active Directory,Marketing,Remote Branch,High,12-02-2025 08:43,13-02-2025 13:10,28.46,Closed
+INC-2025-0892,Stale User Account Active,Internal Database,Marketing,Data Center A,High,10-07-2025 18:42,11-07-2025 11:53,17.19,Closed
+INC-2025-0893,Data Leakage Alert,AWS Cloud Infrastructure,Legal,Head Office,High,06-11-2025 07:04,07-11-2025 01:16,18.2,Closed
+INC-2025-0894,Failed Patch Deployment,Salesforce CRM,Finance,Cloud Instance,Low,16-03-2025 07:17,16-03-2025 18:38,11.36,Closed
+INC-2025-0895,Weak Password Policy Violation,Active Directory,Finance,Cloud Instance,Low,29-10-2025 15:06,30-10-2025 20:01,28.93,Closed
+INC-2025-0896,Failed Patch Deployment,Active Directory,Finance,Remote Branch,Medium,03-04-2025 11:51,06-04-2025 22:27,82.61,Closed
+INC-2025-0897,Unpatched Server,Office 365,Operations,Cloud Instance,High,05-01-2025 21:32,06-01-2025 23:15,25.72,Closed
+INC-2025-0898,Failed Patch Deployment,Internal Database,Marketing,Data Center A,Low,14-12-2025 19:26,15-12-2025 00:17,4.85,Closed
+INC-2025-0899,Weak Password Policy Violation,AWS Cloud Infrastructure,Engineering,Data Center A,High,06-06-2025 20:54,07-06-2025 05:39,8.76,Closed
+INC-2025-0900,Unpatched Server,INTERNAL DATABASE   ,Finance,Head Office,Low,26-03-2025 18:03,27-03-2025 02:07,8.08,Closed
+INC-2025-0901,Weak Password Policy Violation,INTERNAL DATABASE   ,Operations,Data Center A,Medium,03-09-2025 15:32,04-09-2025 18:38,27.11,Closed
+INC-2025-0902,Stale User Account Active,Workday HRMS,HR,Head Office,Medium,06-08-2025 22:34,07-08-2025 05:17,6.72,Closed
+INC-2025-0903,Weak Password Policy Violation,Internal Database,Sales,Head Office,Medium,07-11-2025 14:10,09-11-2025 17:26,51.28,Closed
+INC-2025-0904,Weak Password Policy Violation,Active Directory,Legal,Cloud Instance,High,27-01-2025 13:31,28-01-2025 00:43,11.21,Closed
+INC-2025-0905,Backup Failure,Workday HRMS,Sales,Head Office,Medium,29-05-2025 09:30,29-05-2025 15:15,5.75,Closed
+INC-2025-0906,Weak Password Policy Violation,Internal Database,Engineering,Head Office,Medium,26-08-2025 19:54,27-08-2025 06:27,10.55,Closed
+INC-2025-0907,Stale User Account Active,Salesforce CRM,Finance,Data Center A,High,25-07-2025 11:00,26-07-2025 03:15,16.26,Closed
+INC-2025-0908,Unauthorized Access Attempt,AWS Cloud Infrastructure,Finance,Data Center A,Critical,03-12-2025 08:14,03-12-2025 19:29,11.25,Closed
+INC-2025-0909,Data Leakage Alert,SAP ERP,Engineering,Remote Branch,High,24-03-2025 04:22,24-03-2025 04:52,0.5,Closed
+INC-2025-0910,Unpatched Server,SAP ERP,Engineering,Remote Branch,Critical,04-08-2025 23:21,05-08-2025 03:32,4.19,Resolved
+INC-2025-0911,Data Leakage Alert,SAP ERP,Engineering,Remote Branch,High,09-10-2025 15:51,09-10-2025 19:07,3.27,Closed
+INC-2025-0912,Backup Failure,Internal Database,,Remote Branch,Medium,09-03-2025 03:06,09-03-2025 06:20,3.24,Resolved
+INC-2025-0913,Backup Failure,Internal Database,Finance,Cloud Instance,Medium,08-08-2025 19:47,09-08-2025 11:29,15.7,Closed
+INC-2025-0914,Stale User Account Active,Active Directory,Sales,Data Center B,Low,06-04-2025 07:17,08-04-2025 07:11,47.91,Resolved
+INC-2025-0915,Stale User Account Active,AWS Cloud Infrastructure,HR,Head Office,High,25-12-2025 23:32,26-12-2025 04:33,5.02,Closed
+INC-2025-0916,Data Leakage Alert,Active Directory,Finance,Head Office,Critical,21-05-2025 06:59,21-05-2025 07:29,0.5,Closed
+INC-2025-0917,Stale User Account Active,Salesforce CRM,Sales,Data Center A,Medium,24-04-2025 10:27,25-04-2025 03:33,17.11,Closed
+INC-2025-0918,Stale User Account Active,Salesforce CRM,Engineering,Remote Branch,High,07-05-2025 10:57,07-05-2025 11:57,1,Closed
+INC-2025-0919,Weak Password Policy Violation,SALESFORCE CRM   ,Operations,Head Office,Medium,09-08-2025 05:16,09-08-2025 16:07,10.85,Resolved
+INC-2025-0920,Backup Failure,Workday HRMS,Sales,Data Center A,Medium,19-06-2025 11:47,20-06-2025 20:23,32.6,Resolved
+INC-2025-0921,Weak Password Policy Violation,Active Directory,Engineering,Remote Branch,High,14-02-2025 03:08,15-02-2025 01:14,22.1,Closed
+INC-2025-0922,Unpatched Server,Active Directory,Legal,Remote Branch,Medium,20-02-2025 02:34,20-02-2025 11:10,8.61,Closed
+INC-2025-0923,Unpatched Server,SAP ERP,HR,Data Center A,High,03-08-2025 17:45,05-08-2025 20:03,50.31,Closed
+INC-2025-0924,Stale User Account Active,AWS Cloud Infrastructure,,Head Office,High,12-08-2025 02:30,14-08-2025 18:46,64.28,Closed
+INC-2025-0925,Failed Patch Deployment,Active Directory,Marketing,Head Office,High,17-10-2025 01:50,,,Open
+INC-2025-0926,Weak Password Policy Violation,Workday HRMS,Sales,Head Office,Medium,26-03-2025 14:48,27-03-2025 10:38,19.84,Closed
+INC-2025-0927,Weak Password Policy Violation,Active Directory,Finance,Data Center A,Medium,31-10-2025 22:00,02-11-2025 11:31,37.53,Resolved
+INC-2025-0928,Unpatched Server,Workday HRMS,Engineering,Cloud Instance,Medium,18-05-2025 17:07,18-05-2025 18:14,1.12,Closed
+INC-2025-0929,Failed Patch Deployment,Active Directory,Engineering,Head Office,Medium,25-11-2025 07:52,25-11-2025 10:49,2.96,Closed
+INC-2025-0930,Stale User Account Active,SAP ERP,Engineering,Data Center B,Critical,16-05-2025 23:08,17-05-2025 21:49,22.69,Closed
+INC-2025-0931,Unpatched Server,Salesforce CRM,Legal,Cloud Instance,Medium,01-04-2025 08:01,05-04-2025 04:28,92.45,Closed
+INC-2025-0932,Data Leakage Alert,Internal Database,Marketing,Cloud Instance,Critical,17-11-2025 20:38,19-11-2025 13:22,40.74,Closed
+INC-2025-0933,Backup Failure,Workday HRMS,Legal,Remote Branch,High,21-03-2025 14:14,22-03-2025 03:53,13.66,Closed
+INC-2025-0934,Backup Failure,Active Directory,Operations,Data Center A,Medium,07-04-2025 18:31,07-04-2025 23:17,4.77,Resolved
+INC-2025-0935,Stale User Account Active,AWS Cloud Infrastructure,Legal,Data Center B,Medium,07-04-2025 02:09,07-04-2025 08:54,6.75,Closed
+INC-2025-0936,Stale User Account Active,Active Directory,Sales,Head Office,High,05-11-2025 03:24,05-11-2025 06:12,2.8,Closed
+INC-2025-0937,Backup Failure,Active Directory,HR,Head Office,High,18-05-2025 04:40,19-05-2025 18:23,37.73,Closed
+INC-2025-0938,Backup Failure,Salesforce CRM,Legal,Head Office,Low,14-04-2025 04:30,16-04-2025 10:00,53.5,Resolved
+INC-2025-0939,Weak Password Policy Violation,SAP ERP,HR,Cloud Instance,High,18-11-2025 17:07,18-11-2025 18:12,1.09,Closed
+INC-2025-0940,Unauthorized Access Attempt,Active Directory,Operations,Data Center A,Critical,13-01-2025 07:27,13-01-2025 17:54,10.46,Closed
+INC-2025-0941,Backup Failure,Internal Database,Marketing,Head Office,Medium,09-09-2025 05:07,12-09-2025 08:20,75.22,Closed
+INC-2025-0942,Unauthorized Access Attempt,SAP ERP,Engineering,Data Center B,High,19-03-2025 05:27,20-03-2025 03:25,21.97,Closed
+INC-2025-0943,Backup Failure,Office 365,Engineering,Cloud Instance,Low,28-06-2025 03:17,29-06-2025 05:17,26.01,Resolved
+INC-2025-0944,Unauthorized Access Attempt,Workday HRMS,Finance,Data Center A,High,02-12-2025 04:20,02-12-2025 18:32,14.2,Closed
+INC-2025-0945,Data Leakage Alert,Office 365,Finance,Cloud Instance,Critical,16-03-2025 02:20,,,Open
+INC-2025-0946,Stale User Account Active,AWS Cloud Infrastructure,Operations,Remote Branch,Medium,05-11-2025 20:21,08-11-2025 17:32,69.19,Closed
+INC-2025-0947,Data Leakage Alert,Office 365,Sales,Data Center B,High,02-10-2025 07:24,03-10-2025 13:31,30.12,Closed
+INC-2025-0948,Unauthorized Access Attempt,Internal Database,HR,Data Center A,Critical,05-07-2025 00:13,,,Open
+INC-2025-0949,Failed Patch Deployment,SAP ERP,Finance,Cloud Instance,Medium,13-03-2025 09:29,15-03-2025 07:33,46.07,Closed
+INC-2025-0950,Unauthorized Access Attempt,Active Directory,Legal,Data Center A,High,02-03-2025 22:45,04-03-2025 06:27,31.7,Closed
+INC-2025-0951,Weak Password Policy Violation,INTERNAL DATABASE   ,Finance,Head Office,High,02-09-2025 19:55,02-09-2025 23:43,3.81,Closed
+INC-2025-0952,Data Leakage Alert,Workday HRMS,Legal,Data Center A,Medium,04-04-2025 15:47,05-04-2025 09:46,17.99,Closed
+INC-2025-0953,Stale User Account Active,Workday HRMS,Operations,Head Office,Medium,27-05-2025 03:09,28-05-2025 03:49,24.68,Closed
+INC-2025-0954,Data Leakage Alert,Workday HRMS,Operations,Remote Branch,Critical,11-10-2025 22:53,12-10-2025 19:15,20.37,Closed
+INC-2025-0955,Weak Password Policy Violation,SAP ERP,Engineering,Remote Branch,Critical,06-03-2025 23:13,07-03-2025 00:35,1.38,Closed
+INC-2025-0956,Unauthorized Access Attempt,Workday HRMS,Sales,Remote Branch,Critical,02-09-2025 10:41,04-09-2025 04:49,42.14,Closed
+INC-2025-0957,Unauthorized Access Attempt,Salesforce CRM,HR,Head Office,Critical,09-02-2025 11:38,09-02-2025 21:26,9.81,Resolved
+INC-2025-0958,Unauthorized Access Attempt,Office 365,HR,Cloud Instance,Critical,07-04-2025 17:12,07-04-2025 17:59,0.79,Closed
+INC-2025-0959,Data Leakage Alert,Workday HRMS,Sales,Head Office,Critical,25-01-2025 10:05,25-01-2025 10:35,0.5,Resolved
+INC-2025-0960,Backup Failure,Salesforce CRM,HR,Remote Branch,Low,02-07-2025 04:44,02-07-2025 14:23,9.66,Closed
+INC-2025-0961,Unauthorized Access Attempt,Active Directory,Legal,Data Center B,Critical,15-07-2025 15:37,15-07-2025 16:32,0.92,Resolved
+INC-2025-0962,Stale User Account Active,SAP ERP,Marketing,Data Center A,Medium,21-04-2025 21:41,23-04-2025 04:06,30.43,Closed
+INC-2025-0963,Weak Password Policy Violation,Internal Database,Sales,Cloud Instance,Low,18-08-2025 04:21,19-08-2025 03:47,23.44,Closed
+INC-2025-0964,Unpatched Server,AWS Cloud Infrastructure,Marketing,Data Center A,High,09-11-2025 19:04,,,Open
+INC-2025-0965,Backup Failure,Active Directory,Finance,Cloud Instance,Low,08-10-2025 02:31,08-10-2025 11:33,9.04,Closed
+INC-2025-0966,Unauthorized Access Attempt,Salesforce CRM,Engineering,Head Office,Medium,02-04-2025 22:49,07-04-2025 05:31,102.7,Closed
+INC-2025-0967,Weak Password Policy Violation,SAP ERP,HR,Remote Branch,High,21-01-2025 11:54,22-01-2025 00:31,12.62,Closed
+INC-2025-0968,Weak Password Policy Violation,Workday HRMS,Sales,Cloud Instance,Low,11-07-2025 02:43,11-07-2025 17:04,14.35,Closed
+INC-2025-0969,Stale User Account Active,SAP ERP,Marketing,Data Center A,Critical,25-12-2025 17:00,25-12-2025 19:40,2.67,Closed
+INC-2025-0970,Backup Failure,AWS Cloud Infrastructure,HR,Remote Branch,Medium,09-12-2025 02:22,10-12-2025 03:03,24.69,Closed
+INC-2025-0971,Data Leakage Alert,SAP ERP,Marketing,Remote Branch,High,13-04-2025 12:21,13-04-2025 22:24,10.06,Closed
+INC-2025-0972,Data Leakage Alert,Salesforce CRM,Finance,Head Office,High,07-10-2025 04:30,07-10-2025 10:15,5.76,Closed
+INC-2025-0973,Failed Patch Deployment,Workday HRMS,Finance,Remote Branch,Medium,31-08-2025 06:03,31-08-2025 06:36,0.56,Closed
+INC-2025-0974,Unpatched Server,SAP ERP,HR,Head Office,High,21-05-2025 12:05,22-05-2025 17:58,29.89,Closed
+INC-2025-0975,Backup Failure,Active Directory,Engineering,Head Office,Medium,17-02-2025 13:21,,,Open
+INC-2025-0976,Weak Password Policy Violation,AWS Cloud Infrastructure,Operations,Data Center A,High,23-12-2025 13:22,24-12-2025 09:38,20.27,Resolved
+INC-2025-0977,Stale User Account Active,SAP ERP,HR,Data Center B,High,12-11-2025 04:20,13-11-2025 21:57,41.63,Closed
+INC-2025-0978,Data Leakage Alert,Active Directory,Finance,Data Center A,Critical,13-09-2025 10:07,14-09-2025 13:01,26.9,Resolved
+INC-2025-0979,Unpatched Server,Workday HRMS,Legal,Remote Branch,High,24-11-2025 18:06,26-11-2025 02:57,32.86,Closed
+INC-2025-0980,Unpatched Server,AWS Cloud Infrastructure,,Cloud Instance,High,18-04-2025 06:43,18-04-2025 07:13,0.5,Closed
+INC-2025-0981,Backup Failure,Workday HRMS,Sales,Head Office,Medium,25-12-2025 15:41,,,Open
+INC-2025-0982,Backup Failure,Office 365,Operations,Cloud Instance,Medium,28-02-2025 05:29,28-02-2025 10:09,4.67,Closed
+INC-2025-0983,Stale User Account Active,Internal Database,Legal,Remote Branch,Low,21-11-2025 09:44,23-11-2025 23:56,62.21,Closed
+INC-2025-0984,Stale User Account Active,SAP ERP,Finance,Head Office,Medium,12-11-2025 13:06,13-11-2025 22:32,33.44,Closed
+INC-2025-0985,Unauthorized Access Attempt,Workday HRMS,Sales,Cloud Instance,Critical,04-08-2025 06:14,05-08-2025 01:29,19.25,Resolved
+INC-2025-0986,Data Leakage Alert,Workday HRMS,Engineering,Remote Branch,Critical,27-11-2025 22:50,27-11-2025 23:20,0.5,Closed
+INC-2025-0987,Failed Patch Deployment,Salesforce CRM,Marketing,Remote Branch,High,11-12-2025 07:00,11-12-2025 19:51,12.85,Resolved
+INC-2025-0988,Backup Failure,Office 365,Legal,Data Center B,Low,12-06-2025 10:10,,,Open
+INC-2025-0989,Stale User Account Active,Office 365,HR,Remote Branch,Low,27-01-2025 18:27,28-01-2025 18:43,24.27,Closed
+INC-2025-0990,Data Leakage Alert,Active Directory,Sales,Data Center A,High,20-02-2025 22:51,21-02-2025 01:52,3.02,Closed
+INC-2025-0991,Weak Password Policy Violation,Workday HRMS,Engineering,Data Center A,Medium,15-06-2025 06:05,15-06-2025 19:53,13.81,Closed
+INC-2025-0992,Unauthorized Access Attempt,Office 365,Marketing,Data Center B,High,15-07-2025 00:47,19-07-2025 03:09,98.38,Closed
+INC-2025-0993,Failed Patch Deployment,Active Directory,Marketing,Data Center A,Medium,02-10-2025 07:46,03-10-2025 20:46,37.01,Resolved
+INC-2025-0994,Unauthorized Access Attempt,Internal Database,HR,Data Center B,Critical,22-02-2025 03:29,22-02-2025 06:37,3.14,Resolved
+INC-2025-0995,Backup Failure,AWS Cloud Infrastructure,Finance,Cloud Instance,Critical,17-04-2025 12:06,17-04-2025 12:37,0.53,Closed
+INC-2025-0996,Data Leakage Alert,AWS Cloud Infrastructure,Marketing,Cloud Instance,Medium,21-11-2025 14:51,21-11-2025 23:22,8.52,Closed
+INC-2025-0997,Unauthorized Access Attempt,SAP ERP,Legal,Cloud Instance,High,27-06-2025 15:39,27-06-2025 16:09,0.5,Closed
+INC-2025-0998,Weak Password Policy Violation,SAP ERP,Sales,Head Office,Critical,23-09-2025 16:48,25-09-2025 17:12,48.4,Closed
+INC-2025-0999,Stale User Account Active,SAP ERP,HR,Data Center A,High,18-05-2025 08:30,18-05-2025 10:49,2.32,Closed
+INC-2025-1000,Data Leakage Alert,AWS Cloud Infrastructure,Legal,Data Center B,High,24-07-2025 06:16,25-07-2025 10:08,27.88,Closed
